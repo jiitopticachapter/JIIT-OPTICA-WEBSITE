@@ -1,6 +1,7 @@
 import React from 'react'
-import NavBar from '../components/NavBar'
-import PageName from '../components/PageName'
+
+import NavBar from '../../components/NavBar/NavBar'
+import PageName from '../../components/PageName/PageName'
 
 function Alumni() {
   return (
