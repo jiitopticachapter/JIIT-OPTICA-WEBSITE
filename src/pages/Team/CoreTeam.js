@@ -1,4 +1,3 @@
-import "./CoreTeam.css";
 import React from 'react'
 
 function CoreTeam() {

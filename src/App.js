@@ -1,11 +1,11 @@
 import React from 'react';
 import { Route, Routes } from "react-router-dom";
 
-import Home from "./routes/Home/Home";
-import Team from "./routes/Team/Team";
-import Mentor from "./routes/Mentor/Mentor";
-import Contact from "./routes/Contact/Contact";
-import Alumni  from "./routes/Alumni/Alumni";
+import Home from "./pages/Home/Home";
+import Team from "./pages/Team/Team";
+import Mentor from "./pages/Mentor/Mentor";
+import Contact from "./pages/Contact/Contact";
+import Alumni  from "./pages/Alumini/Alumni";
 
 import './App.css';
 import "./index.css";

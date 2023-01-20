@@ -1,8 +1,8 @@
 import React from 'react'
 
-import CoreTeam from '../../components/CoreTeam/CoreTeam'
-import NavBar from '../../components/NavBar/NavBar'
-import PageName from '../../components/PageName/PageName'
+import CoreTeam from './CoreTeam'
+import NavBar from '../../components/NavBar'
+import PageName from '../../components/PageName'
 
 function Team() {
   return (

@@ -1,5 +1,4 @@
 import React from 'react'
-import "./MentorInfo.css"
 
 function MentorInfo() {
     return (

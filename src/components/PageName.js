@@ -1,4 +1,3 @@
-import "./PageName.css"
 import React, {Component} from 'react'
 
 class PageName extends Component {
