@@ -8,6 +8,11 @@
   /* background-color: #03031a; */
   font-family: 'Quicksand', sans-serif;
 }
+
 a{
   text-decoration: none;
+}
+
+body{
+  background-color: #03031a;
 }

@@ -3,8 +3,9 @@ import React from 'react'
 function MentorInfo() {
     return (
         <div className="mentors">
-            <div className="card-container">
-                <div className="card">
+            <div className="mentor-card-container">
+                
+                <div className="mentor-card">
                     <div className="mentor_photo">
                         <img src="../images/anuraj_panwar.jpg" alt="img" width="200px" />
                     </div>
@@ -15,7 +16,7 @@ function MentorInfo() {
                     </p>
                 </div>
 
-                <div className="card">
+                <div className="mentor-card">
                     <div className="mentor_photo">
                         <img src="../images/manoj_tripathi.png" alt="img" width="200px" />
                     </div>
@@ -23,11 +24,10 @@ function MentorInfo() {
                     <p className="mentor_designation">Co-Faculty Advisor</p>
                     <p className="mentor_content">
                     Dr. Manoj Tripathi completed his Post Graduate degree (M.Sc. in Physics) from Dr. Ram Manohar Lohia Avadh University, Faizabad followed by M.Tech. in Cryogenic Engineering from IIT Kharagpur. Dr. Tripathi secured a fellowship under ‘High Impact Research Grant-Scheme’ and completed his Ph.D. from University of Malaya, Kuala Lumpur Malaysia in the field of Energy Storage Materials. He has served as visiting researcher in Integrated Biotechnological Research Institute, Lucknow. Dr. Manoj Tripathi joined the Department of Physics & Material Science & Engineering at JIIT Noida in 2018 as Assistant Professor.
-
-
                     </p>
                 </div>
-                <div className="card">
+
+                <div className="mentor-card">
                     <div className="mentor_photo">
                         <img src="../images/ashish_bhatnagar.jpg" alt="img" width="200px" />
                     </div>
@@ -37,6 +37,7 @@ function MentorInfo() {
                     Dr. Ashish Bhatnagar completed his Post Graduate degree (M.Sc. in Physics) from University of Delhi, afterwards he joined Banaras Hindu University (Prof O.N. Srivastava) in 2011 for Doctoral Degree. He has been visiting scientist in the lab of Prof. J. Karl Johnson, University of Pittsburgh, USA from October 2014 to January 2015. After completing PhD in 2018, Dr Bhatnagar worked as Post-Doctoral Fellow at Banaras Hindu University under DST Nano Mission Thematic Project on Energy Storage. Dr. Ashish Bhatnagar joined the Department of Physics and Materials Science and Engineering at JIIT Noida in 2019 as Assistant Professor.
                     </p>
                 </div>
+
             </div>
         </div>
     )
