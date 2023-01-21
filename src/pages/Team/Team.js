@@ -1,7 +1,7 @@
 import React from 'react'
 
 import CoreTeam from './CoreTeam'
-import NavBar from '../../components/NavBar'
+import NavBar from '../../components/Navbar'
 import PageName from '../../components/PageName'
 
 function Team() {

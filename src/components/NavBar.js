@@ -27,16 +27,16 @@ const Navbar = () => {
                     <Link to="/"> Home </Link>
                 </li>
                 <li>
+                    <Link to="/events"> Events </Link>
+                </li>
+                <li>
                     <Link to="/team"> Team </Link>
                 </li>
                 <li>
-                    <Link to="/contact"> Contact </Link>
+                    <Link to="/gallery"> Gallery </Link>
                 </li>
                 <li>
-                    <Link to="/mentor"> Mentor </Link>
-                </li>
-                <li>
-                    <Link to="/alumni"> Alumni </Link>
+                    <Link to="/jscop"> JSCOP </Link>
                 </li>
             </ul>
             <div className="hamburger" onClick={handleclick}>

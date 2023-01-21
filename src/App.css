@@ -239,3 +239,153 @@ section img {
         font-size : 3rem;
     }
 }
+
+/* Core Team CSS */
+
+.team_container{
+    background: #03031a;
+    width: 100%;
+    padding: 6rem 1rem;
+}
+
+.card_container{
+    max-width: 1350px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 40px;
+    padding-bottom: 5rem;
+}
+
+
+@media screen and (max-width:1080px) {
+    .card_container{
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .card_container{
+        max-width: 60%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Card CSS */
+
+.card {
+    background: #1a1919;
+    padding: 1.2rem 1rem;
+}
+
+.card img {
+        width: 100%;
+    }
+
+.card_name {
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.card_designation p {
+    padding-bottom: 1rem;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.social_links {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem 0;
+}
+
+.social_links .social_links_icon {
+    padding: 0.5rem 1rem;
+}
+
+/* Alumni CSS */
+
+.alumni {
+    background-color: #03031a;
+}
+
+.alumni_founders {
+    display: grid;
+    grid-template-columns: 35% 65%;
+    margin: 0 30px;
+}
+
+.alumni_founders_heading {
+    max-width: 400px;
+}
+
+.alumni_founders_cards {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 40px;
+    padding-bottom: 5rem;
+    max-width: 900px;
+}
+
+@media screen and (max-width: 768px) {
+    .alumni_founders {
+        display: grid;
+        grid-template-columns: auto;
+        margin: 0 30px;
+    }
+    .alumni_founders_heading{
+        max-width : 100%;
+    }
+    .alumni_founders_cards {
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 40px;
+        padding-bottom: 5rem;
+        max-width: 66%;
+        margin: auto;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1080px) {
+    .alumni_founders {
+        display: grid;
+        grid-template-columns: auto;
+        margin: 0 30px;
+    }
+    .alumni_founders_heading{
+        max-width : 100%;
+    }
+
+    .alumni_founders_cards {
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 40px;
+        padding: 2.5rem 0;
+        max-width: 22rem;
+        margin: auto;
+    }
+}
+
+.side_heading {
+    text-align: left;
+}
+
+.side_heading h1 {
+    font-size: 2rem;
+    margin: 0.5rem;
+}
+
+.side_heading p {
+    margin: 0.5rem;
+}
+
+@media screen and (max-width: 1080px) {
+    .side_heading{
+        text-align : center;
+    }
+}
