@@ -8,7 +8,7 @@ function Title() {
             {/* <img className="bg" src = "/images/background.jpg" alt = "" /> */}
         </div>
         <div className="content">
-            <h1>
+            <h1 id="txt-animation">
                 JIIT OPTICA CHAPTER
             </h1>
         </div>

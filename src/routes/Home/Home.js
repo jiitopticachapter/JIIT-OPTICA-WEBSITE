@@ -11,7 +11,7 @@ import ShootingStar from '../../components/ShootingStars/ShootingStars';
 const Home = () => {
   return (
     <div>
-      <ShootingStar/>
+      {/* <ShootingStar/> */}
       <NavBar />
       <Title />
       <About />
