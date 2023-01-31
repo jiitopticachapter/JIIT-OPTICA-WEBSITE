@@ -1,0 +1,109 @@
+.infobox {
+    width: 90%;
+    display: flex;
+    margin: 6rem auto;
+
+    .infobox_img {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            width: 80%;
+            border: 1px solid #e9a604;
+            border-radius: 5px;
+            animation: Fade_In 1 2s;
+
+        }
+    }
+
+    .infobox_content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 50%;
+
+        p {
+            font-size: 1.2rem;
+            text-align: justify;
+            line-height: 2rem;
+        }
+
+        h1 {
+            color: #e9a604;
+            text-align: center;
+        }
+    }
+}
+
+.infobox_3 {
+    width: 90%;
+    display: flex;
+    margin: 6rem auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .infobox_3_heading {
+
+        h1 {
+            color: #e9a604;
+        }
+
+    }
+
+    .infobox_3_info {
+        p {
+            font-size: 1.2rem;
+            text-align: justify;
+            line-height: 2rem;
+        }
+    }
+}
+
+@media screen and (max-width : 1080px) {
+    .infobox {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 6rem auto;
+
+        .infobox_img {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            img {
+                width: 80%;
+                border: 1px solid #e9a604;
+                border-radius: 5px;
+                margin: 2rem auto;
+            }
+        }
+
+        .infobox_content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            max-width: 90%;
+
+            p {
+                font-size: 1.2rem;
+                text-align: justify;
+                line-height: 2rem;
+            }
+
+            h1 {
+                color: #e9a604;
+            }
+        }
+    }
+    .infobox_2{
+        flex-direction: column-reverse;
+    }
+
+}

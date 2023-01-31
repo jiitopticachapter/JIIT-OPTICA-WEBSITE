@@ -1,0 +1,35 @@
+.team_container{
+    background: #171c28;
+    width: 100%;
+    padding: 6rem 1rem;
+}
+
+.card_container{
+    max-width: 1350px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 40px;
+    padding-bottom: 5rem;
+}
+
+
+@media screen and (max-width:1080px) {
+    .card_container{
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .card_container{
+        max-width: 60%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+}
+
+
+

@@ -1,0 +1,122 @@
+.card {
+    background: #1a1919;
+    padding: 1.2rem 1rem;
+
+    img {
+        width: 100%;
+    }
+
+    .card_name {
+        color: #fff;
+        padding: 1rem 0;
+        text-align: center;
+    }
+
+    .card_designation p {
+        padding-bottom: 1rem;
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+.social_links {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem 0;
+}
+
+.social_links .social_links_icon {
+    padding: 0.5rem 1rem;
+}
+
+}
+
+.wrapper {
+  display: flex;
+  width: 90%;
+  justify-content: space-around;
+
+  .Wrappercard {
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+    padding: 1.5rem;
+    background: white;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    transition: 0.4s ease-out;
+    box-shadow: 0px 7px 10px rgba(black, 0.5);
+
+    &:hover {
+      transform: translateY(-20px);
+      box-shadow: 14px 14px 14px rgba(208, 213, 213, 0.6), 0 10px 10px rgba(192, 199, 201, 0.6);
+  
+      &:before {
+        opacity: 1;
+      }
+      .info {
+        opacity: 1;
+        transform: translateY(0px);
+      }
+    }
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 15px;
+      background: rgba(black, 0.6);
+      z-index: 2;
+      transition: 0.5s;
+      opacity: 0;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+      border-radius: 15px;
+    }
+
+    .info {
+      position: relative;
+      z-index: 3;
+      color: white;
+      opacity: 0;
+      transform: translateY(30px);
+      
+      transition: 0.5s;
+      h1 {
+        margin: 0px;
+      }
+
+      p {
+        letter-spacing: 1px;
+        font-size: 15px;
+        margin-top: 8px;
+      }
+      
+      .social_links {
+        display: flex;
+        padding: 0.5rem 0;
+      }
+
+      .social_links .social_links_icon {
+        padding: 0.5rem 1rem;
+        padding-left: 0;
+      }
+    }
+  }
+}
+
+@media (max-width:760px) {
+  .wrapper{
+    width: 100%;
+  }
+}

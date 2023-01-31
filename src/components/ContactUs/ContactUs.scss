@@ -1,0 +1,233 @@
+/* Google Font CDN Link */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+.contactUs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 70px;
+
+  h1 {
+    font-size: 3rem;
+    font-family: "Orbitron", sans-serif;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .ContactUs-container {
+    width: 65%;
+    background: #ffffff40;
+    background-color: transparent;
+      border-radius: 6px;
+    padding: 10px 10px 10px 10px;
+
+    // box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    .ContactUs-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+
+      .ContactUs-left-side {
+        width: 25%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        margin-top: 15px;
+        position: relative;
+
+        .ContactUs-details {
+          margin: 14px;
+          text-align: center;
+          display: flex;
+          justify-content: space-between;
+
+          i {
+            font-size: 30px;
+            color: #74b9ff;
+            margin-bottom: 10px;
+            margin-right: 1rem;
+          }
+
+          .ContactUs-topic {
+            font-size: 18px;
+            font-weight: 500;
+          }
+
+          .ContactUs-text-one {
+            font-size: 14px;
+            color: #fff;
+          }
+
+          .ContactUs-text-two {
+            font-size: 14px;
+            color: #fff;
+          }
+        }
+      }
+
+      .ContactUs-right-side {
+        width: 60%;
+        margin-left: 6px;
+
+        .ContactUs-topic-text {
+          font-size: 23px;
+          font-weight: 600;
+          color: #74b9ff;
+        }
+
+        form {
+          .ContactUs-input-box {
+            height: 50px;
+            width: 100%;
+            margin: 12px 0;
+
+            input {
+              height: 100%;
+              width: 100%;
+              border: none;
+              outline: none;
+              font-size: 16px;
+              background: rgb(240, 241, 248, 1);
+              border-radius: 6px;
+              padding: 0 15px;
+              color: #040306;
+              resize: none;
+            }
+          }
+
+          .ContactUs-input-name {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: -10px;
+
+            .FirstName {
+              width: 49%;
+            }
+
+            .LastName {
+              width: 49%;
+            }
+          }
+
+          .ContactUs-button {
+            display: inline-block;
+            margin-top: 12px;
+          }
+
+          .ContactUs-message-box {
+            min-height: 110px;
+
+            textarea {
+              height: 100%;
+              width: 100%;
+              color: #040306;
+              border: none;
+              outline: none;
+              font-size: 16px;
+              background: rgb(240, 241, 248, 1);
+              ;
+              border-radius: 6px;
+              padding: 0 15px;
+              resize: none;
+              padding-top: 6px;
+            }
+          }
+
+          .ContactUs-button {
+            display: inline-block;
+            margin-top: 12px;
+
+            input[type="button"] {
+              color: #171c28;
+              font-weight: bold;
+              font-size: 18px;
+              outline: none;
+              border: none;
+              padding: 8px 16px;
+              border-radius: 6px;
+              background: #74b9ff;
+              cursor: pointer;
+              transition: all 0.3s ease;
+            }
+
+            input[type="button"]:hover {
+              background: #5029bc;
+              color: white;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 950px) {
+  .ContactUs-container {
+    width: 90% !important;
+    padding: 30px 40px 40px 35px;
+  }
+
+  .ContactUs-container .ContactUs-content .ContactUs-right-side {
+    width: 80% !important;
+    margin-left: 55px;
+  }
+}
+
+@media (max-width: 820px) {
+  .ContactUs-container {
+    margin: 40px 0;
+    height: 100%;
+    width: 90% !important;
+  }
+
+  .ContactUs-container .ContactUs-content {
+    flex-direction: column-reverse;
+  }
+
+  .ContactUs-container .ContactUs-content .left-side {
+    width: 100% !important;
+    flex-direction: row;
+    margin-top: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .contactUs .ContactUs-container .ContactUs-content .ContactUs-left-side {
+    width: 100%;
+  }
+
+  .ContactUs-container .ContactUs-content .left-side::before {
+    display: none;
+  }
+
+  .ContactUs-container .ContactUs-content .ContactUs-right-side {
+    width: 80% !important;
+    margin-left: 0;
+
+    form {
+      .ContactUs-input-name {
+        flex-direction: column;
+
+        .FirstName {
+          width: 100% !important;
+          margin-bottom: -1.0px;
+        }
+
+        .LastName {
+          width: 100% !important;
+        }
+      }
+    }
+  }
+
+  .contactUs .ContactUs-container .ContactUs-content .ContactUs-right-side form .ContactUs-button {
+    width: 100%;
+
+    input[type=button] {
+      width: 100%;
+    }
+  }
+}

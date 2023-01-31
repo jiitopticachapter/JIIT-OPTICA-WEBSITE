@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap');
+
+.title{
+    overflow: hidden;
+}
+
+.title-bg {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25), #171c28), url("/public/images/background1.jpg");
+    background-size: cover;
+    animation: AnimateBG 1 3s;
+    z-index: 0; /*for shooting star*/
+}
+
+.bg {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+
+.title-bg::after {
+    content: " ";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background-color: rgba(0, 0, 0, 0.34); */
+
+}
+
+.title {
+    height: 100%;
+    width: 100%;
+}
+
+.title .content {
+    position: absolute;
+    transform: translate(-50%, -80%);
+    top: 70%;
+    left: 50%;
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 5rem;
+    padding: 0.6rem 0 1.5rem;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    letter-spacing: 7px;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.jumping_arrow {
+    color: #fff;
+    position: absolute;
+    transform: translate(-50%, 40vh);
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    height: auto;
+
+}
+
+.jumping_arrow i {
+    height: 40px;
+    overflow-x: hidden;
+    animation: animateDown infinite 1.5s;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .title .content {
+        transform: translate(-50%, -165%);
+    }
+
+    .content h1 {
+        font-size: 3rem;
+    }
+
+    .title-bg {
+        background-position: center;
+    }
+
+}

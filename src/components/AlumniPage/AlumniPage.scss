@@ -1,0 +1,77 @@
+.alumni {
+    background-color: #171c28;
+
+    .alumni_founders {
+        display: grid;
+        grid-template-columns: 35% 65%;
+        margin: 0 30px;
+    }
+
+    .alumni_founders_heading {
+        max-width: 400px;
+    }
+
+    .alumni_founders_cards {
+        display: grid;
+        grid-template-columns: 30% 30% 30%;
+        grid-gap: 40px;
+        padding-bottom: 5rem;
+        max-width: 900px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1080px) {
+    .alumni {
+        .alumni_founders {
+            display: grid;
+            grid-template-columns: auto;
+            margin: 0 30px;
+        }
+
+        .alumni_founders_heading {
+            max-width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .alumni_founders_cards {
+            display: grid;
+            grid-template-columns: auto;
+            grid-gap: 40px;
+            padding: 2.5rem 0;
+            max-width: 22rem;
+            margin: auto;
+        }
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .alumni {
+        .alumni_founders {
+            display: grid;
+            grid-template-columns: auto;
+            margin: 0 30px;
+        }
+
+        .alumni_founders_heading {
+            max-width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .alumni_founders_cards {
+            display: grid;
+            grid-template-columns: auto;
+            grid-gap: 40px;
+            padding-bottom: 5rem;
+            max-width: 66%;
+            margin: auto;
+            margin-top: 25px;
+        }
+    }
+
+}
+

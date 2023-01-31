@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+.planning {
+    margin-top: 5%;
+    background-color: rgba(23, 28, 40, 255);
+    padding-bottom: 6%;
+}
+
+.planning h1 {
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Orbitron", sans-serif;
+    text-align: center;
+    margin: 5rem auto;
+}
+
+.planning h1:before {
+    border-top: 2px solid #dfdfdf;
+    content: "";
+    margin: 0 auto;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 30%;
+    z-index: -1;
+}
+
+.planning h1 span {
+    background: rgba(23, 28, 40, 255);
+    padding: 0 15px;
+}
+
+.plan-feature {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.plan {
+    background: white;
+    padding: 50px;
+    /* color: white; */
+    transition: all 0.2s;
+    font-weight: 500;
+    border-radius: 20px;
+    background: rgba(74, 144, 226, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    font-size: 17px;
+}
+
+.plan:hover {
+    background: rgb(20, 91, 172);
+
+    color: black;
+    transition: all 0.5s;
+    transform: scale(1.1);
+}
+
+.plan-heading {
+    font-size: 35px;
+}
+
+.plan-feature {
+    list-style: none;
+    padding: 0px;
+}
+
+.plan-feature li:before {
+    content: "✓";
+    margin-right: 16px;
+}
+
+.plan-feature li {
+    margin-bottom: 16px;
+    display: flex;
+}
+
+.plan-choose {
+    width: 90%;
+    background: rgb(112, 184, 252);
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.plan a{
+    color: white;
+}
+
+.plan-header {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    text-align: center;
+    /* font-family: 'Quicksand'; */
+}
+
+.plan-options {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3%;
+}
+
+@media screen and (max-width: 1080px) {
+    .planning {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .plan-options {
+        grid-template-columns: auto;
+        margin: 1rem 2rem 10rem 2rem;
+    }
+}
