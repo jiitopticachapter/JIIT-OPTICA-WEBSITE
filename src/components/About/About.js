@@ -17,11 +17,11 @@ function About() {
         heading="Our Community"
         info="JIIT OPTICA, the institute's only internationally recognised scientific body offers a forum for students to discover new worlds outside of the academic curriculum and organises workshops, annual festivals, national conferences, alumni gatherings, and educational visits to reputable research and development institutions. In order to inspire young minds, the club also hosts lectures by illustrious scholar and researchers from a variety of subjects.  " />
       <InfoBox2
-        image="/images/about_two.jpg"
+        image="images/about_two.jpg"
         heading="Life as a Member"
         info="Students actively participate in a variety of competitions in this organisation, displaying originality, great inventiveness, and dedication to their goals. Additionally, these activities aid students in developing their communication and presentation skills, which are crucial in today's society.  Optica offers a very powerful platform for the overall growth of students and makes an effort to raise the pupils' academic standards, along with focusing on the development of their working capabilities.  " />
       <InfoBox1
-        image="/images/about_three.jpg"
+        image="images/about_three.jpg"
         heading="What Makes Us Unique"
         info="In the past we've conducted a plethora of workshops, while our main attraction stays at the society's annually conducted JSCOP, it won't be an exaggeration to say that the rest of our events stand par the quality.
         Through the mentorship provided by our core team, we strive to provide a real world work environment to our members to enrich their experiences.
