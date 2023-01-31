@@ -20,7 +20,7 @@ function App() {
    <>
    <ScrollToTop />
     <Routes>
-        {/* <Route path="*" component={pageNotFound} /> */}
+        {/* <Route exact path="/optica-website-2023" element={<Home />} /> */}
         <Route path="/" element={<Home />} />
         <Route path="/team" element={<Team />} />
         <Route path="/alumni" element={<Alumni />} />
@@ -28,6 +28,7 @@ function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path='/mentors' element={<Mentors/>} />
         <Route path='/jscop' element={<Jscop/>} />
+        {/* <Route path="*" component={pageNotFound} /> */}
        
       </Routes>
    </>
