@@ -1,15 +1,15 @@
 const recenthighlights=[
   {
-     imgUrl:"/images/recent highlights/gallery1.jpg"
+     imgUrl:"images/recent highlights/gallery1.jpg"
   },
   {
-     imgUrl:"/images/recent highlights/gallery2.jpg"
+     imgUrl:"images/recent highlights/gallery2.jpg"
   },
   {
-     imgUrl:"/images/recent highlights/gallery3.jpg"
+     imgUrl:"images/recent highlights/gallery3.jpg"
   },
   {
-     imgUrl:"/images/recent highlights/gallery4.jpg"
+     imgUrl:"images/recent highlights/gallery4.jpg"
   },
   
 ]
