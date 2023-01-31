@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/optica-website-2023/static/css/main.0b5b1e99.css",
-    "main.js": "/optica-website-2023/static/js/main.1f57b080.js",
+    "main.js": "/optica-website-2023/static/js/main.cc47897c.js",
     "static/media/background1.jpg": "/optica-website-2023/static/media/background1.f8b5d52f7916d45dcf99.jpg",
     "static/media/JSCOP5.0.png": "/optica-website-2023/static/media/JSCOP5.0.c44cbf97878f9cceead1.png",
     "index.html": "/optica-website-2023/index.html",
     "main.0b5b1e99.css.map": "/optica-website-2023/static/css/main.0b5b1e99.css.map",
-    "main.1f57b080.js.map": "/optica-website-2023/static/js/main.1f57b080.js.map"
+    "main.cc47897c.js.map": "/optica-website-2023/static/js/main.cc47897c.js.map"
   },
   "entrypoints": [
     "static/css/main.0b5b1e99.css",
-    "static/js/main.1f57b080.js"
+    "static/js/main.cc47897c.js"
   ]
 }
