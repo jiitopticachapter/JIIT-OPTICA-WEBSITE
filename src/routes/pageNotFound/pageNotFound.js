@@ -1,4 +1,4 @@
-import React from 'react'
+/* import React from 'react'
 import "./pageNotFound.css"
 
 function pageNotFound() {
@@ -24,3 +24,4 @@ function pageNotFound() {
 }
 
 export default pageNotFound
+*/
