@@ -6,7 +6,7 @@ import Team from "./routes/Team/Team";
 import Alumni  from "./routes/Alumni/Alumni";
 import Events from './routes/Events/Events';
 import Gallery from './routes/Gallery/Gallery';
-import pageNotFound from './routes/pageNotFound/pageNotFound';
+//import pageNotFound from './routes/pageNotFound/pageNotFound';
 
 import './App.css';
 import "./index.css";
