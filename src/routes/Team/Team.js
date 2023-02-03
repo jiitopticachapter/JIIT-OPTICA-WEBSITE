@@ -8,7 +8,7 @@ import PageName from '../../components/PageName/PageName'
 function Team() {
   return (
     <div>
-      <NavBar />
+      {/* <NavBar /> */}
       <PageName page_heading="CORE TEAM"/>
       <CoreTeam/>
       <Footer />
