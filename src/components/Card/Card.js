@@ -13,8 +13,8 @@ const Card = (props) => {
     //   <div className="card_designation">
     //     <p>{props.designation}</p>
         // <div className="social_links">
-        //   <NavLink to={props.instaLink} className="social_links_icon"><i class="fa-brands fa-instagram"></i></NavLink>
-        //   <NavLink to={props.linkedinLink} className="social_links_icon"><i class="fa-brands fa-linkedin-in"></i></NavLink>
+        //   <NavLink to={props.instaLink} className="social_links_icon"><i className="fa-brands fa-instagram"></i></NavLink>
+        //   <NavLink to={props.linkedinLink} className="social_links_icon"><i className="fa-brands fa-linkedin-in"></i></NavLink>
         // </div>
     //   </div>
     // </div>
@@ -26,8 +26,8 @@ const Card = (props) => {
             <h1 className="card_name">{props.name}</h1>
             <p>{props.designation}</p>
             <div className="social_links">
-              <NavLink to={props.instaLink} className="social_links_icon"><i class="fa-brands fa-instagram"></i></NavLink>
-              <NavLink to={props.linkedinLink} className="social_links_icon"><i class="fa-brands fa-linkedin-in"></i></NavLink>
+              <NavLink to={props.instaLink} className="social_links_icon"><i className="fa-brands fa-instagram"></i></NavLink>
+              <NavLink to={props.linkedinLink} className="social_links_icon"><i className="fa-brands fa-linkedin-in"></i></NavLink>
             </div>
           </div>
         </div>
