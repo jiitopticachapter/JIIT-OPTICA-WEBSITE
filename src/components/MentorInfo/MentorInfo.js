@@ -28,7 +28,7 @@ function MentorInfo() {
 
           <div data-aos="zoom-in"  className="mentor-details" onMouseLeave={() => setIsShown1(true)}>
             <div className="mentor-image" onMouseEnter={() => setIsShown1(false)} >
-              <img src="../images/anuraj_panwar.jpg" alt="img" width="200px" />
+              <img src="../images/mentors/anuraj_panwar.jpg" alt="img" width="200px" />
             </div>
             <div className="mentor-content">
               <h2>
@@ -45,7 +45,7 @@ function MentorInfo() {
 
           <div data-aos="zoom-in" className="mentor-details" onMouseLeave={() => setIsShown2(true)}>
             <div className="mentor-image" onMouseEnter={() => setIsShown2(false)} >
-              <img src="../images/manoj_tripathi.png" alt="img" width="200px" />
+              <img src="../images/mentors/manoj_tripathi.png" alt="img" width="200px" />
             </div>
             <div className="mentor-content">
               <h2>
@@ -63,7 +63,7 @@ function MentorInfo() {
           <div  data-aos="zoom-in"   className="mentor-details" onMouseLeave={() => setIsShown3(true)}>
             <div className="mentor-image" onMouseEnter={() => setIsShown3(false)} >
               <img
-                src="../images/ashish_bhatnagar.jpg"
+                src="../images/mentors/ashish_bhatnagar.jpg"
                 alt="img"
                 width="200px"
               />

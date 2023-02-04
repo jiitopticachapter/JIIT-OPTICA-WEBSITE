@@ -9,6 +9,4 @@ root.render(
   <BrowserRouter basename='/'>
   <App />
   </BrowserRouter>
-
-
 );
