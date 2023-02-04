@@ -20,9 +20,9 @@ const MentorDetails = () => {
      
       <div className="mentor-info">
       <div data-aos="fade-up">
-        <section  class="about">
+        <section  className="about">
           <div className="main">
-            <img src="/images/anuraj_panwar.jpg" alt="Mentor photos" />
+            <img src="/images/mentors/anuraj_panwar.jpg" alt="Mentor photos" />
             <div className="about-text">
               <h2>Dr. ANURAJ PANWAR </h2>
               <h3>FACULTY ADVISOR</h3>
@@ -47,9 +47,9 @@ const MentorDetails = () => {
         </section>
         </div>
         <div data-aos="fade-up">
-        <section class="about">
+        <section className="about">
           <div className="main">
-            <img src="/images/manoj_tripathi.png" alt="Mentor photos" />
+            <img src="/images/mentors/manoj_tripathi.png" alt="Mentor photos" />
             <div className="about-text">
               <h2>Dr. Manoj Tripathi </h2>
               <h3> CO-FACULTY ADVISOR</h3>
@@ -70,9 +70,9 @@ const MentorDetails = () => {
         </section>
         </div>
         <div data-aos="fade-up">
-        <section class="about">
+        <section className="about">
           <div className="main">
-            <img src="/images/ashish_bhatnagar.jpg" alt="Mentor photos" />
+            <img src="/images/mentors/ashish_bhatnagar.jpg" alt="Mentor photos" />
             <div className="about-text">
               <h2>Dr. ASHISH BHATNAGAR</h2>
               <h3>  CO-FACULTY ADVISOR</h3>

@@ -45,7 +45,7 @@ export default function Gallerygrid() {
         disabled={disabled}
         onClick={onClick}
       >
-        <i class="fa-sharp fa-solid fa-chevron-left fa-2x"></i>
+        <i className="fa-sharp fa-solid fa-chevron-left fa-2x"></i>
       </div>
     );
   }
@@ -62,7 +62,7 @@ export default function Gallerygrid() {
         disabled={disabled}
         onClick={onClick}
       >
-        <i class="fa-sharp fa-solid fa-chevron-right fa-2x"></i>
+        <i className="fa-sharp fa-solid fa-chevron-right fa-2x"></i>
       </div>
     );
   }
@@ -181,7 +181,7 @@ export default function Gallerygrid() {
       </div>
       <div className="gallery-row">
         <div className="gallery-imgcontainer">
-          <button onClick={handleClick} className="handle left-handle"><i class="fa-sharp fa-solid fa-chevron-left fa-2x"></i></button>
+          <button onClick={handleClick} className="handle left-handle"><i className="fa-sharp fa-solid fa-chevron-left fa-2x"></i></button>
           <div className="gallery-items">
             {
               recenthighlights.map((val, ind) => {
@@ -194,7 +194,7 @@ export default function Gallerygrid() {
               })
             }
           </div>
-          <button onClick={handleClick} className="handle right-handle"><i class="fa-sharp fa-solid fa-chevron-right fa-2x"></i></button>
+          <button onClick={handleClick} className="handle right-handle"><i className="fa-sharp fa-solid fa-chevron-right fa-2x"></i></button>
 
         </div>
 

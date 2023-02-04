@@ -44,6 +44,7 @@
     top: 70%;
     left: 50%;
     text-align: center;
+    z-index: 3; /* to make sure shooting stars is behind it*/
 }
 
 .content h1 {
