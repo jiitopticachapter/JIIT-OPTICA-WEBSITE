@@ -12,24 +12,25 @@ const eventData2022_23 = [
     {
         title: "Bhailang",
         description: "Bhai Lang is the new trend running in the world of programming and has gained a lot of popularity. Get a chance to expand the horizons of your knowledge, learn, compete and win exciting rewards in JSCOP's Bhai Lang Contest.",
-        imgUrl: "/images/events/code-orate.jpeg",
-    },
-    
-    {
-        title: "Ideathon",
-        description: "Ideathon provides the young entrepreneurs with a platform to present their business idea in a fascinating way and win exciting prizes.",
-        imgUrl: "/images/events/code-orate.jpeg",
-    },
-    {
-        title: "International Coding Contest",
-        description: "In this event programmers give solutions to critical problems using code. Brag your skills and knowledge and compete in a fair, healthy and unbiased environment.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/Bhailang.jpg",
     },
     {
         title: "Trivia Falcon",
         description: "Trivia Falcon is a Quiz competition where the competitors will get a chance to test their knowledge in the field of general awareness, science and technology.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/TriviaFalcon.jpg",
+    },
+    
+    {
+        title: "International Coding Contest",
+        description: "In this event programmers give solutions to critical problems using code. Brag your skills and knowledge and compete in a fair, healthy and unbiased environment.",
+        imgUrl: "/images/events/ICC.jpg",
+    },
+    {
+        title: "Ideathon",
+        description: "Ideathon provides the young entrepreneurs with a platform to present their business idea in a fascinating way and win exciting prizes.",
+        imgUrl: "/images/events/Ideathon.webp",
     }
+    
 ];
 
 const eventData2020_21 = [
