@@ -7,7 +7,7 @@ const eventData2022_23 = [
     {
         title: "API 101",
         description: "Hands-on-session on Postman and Microsoft Azure along with demonstrating Pynt workspace.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/api101.jfif",
     },
     {
         title: "Bhailang",
@@ -36,32 +36,32 @@ const eventData2020_21 = [
     {
         title: "JSCOP",
         description: " JIIT OPTICAA conducts JSCOP every year as a ritual now that includes coding and programming events as well as hones the personality and professionalism of students with speaking and logical-thinking competitions.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/jscop20.jpg",
     },
     {
         title: "Spectrum",
         description: "JIIT OPTICA STUDENT CHAPTER, the only known for its multitude of competitions and events ranging from academic to non-academic fortes and fields, conducts online scientific photography contest, uniquely termed “SPECTRUM”.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/spectrum.jpg",
     },
     {
         title: "Lens Studio Workshop",
         description: "This one day lens studio workshop organized by JIIT OPTICA STUDENT CHAPTER in collaboration with Snapchat Inc. gave participants a hands on experience in Snap’s Lens Studio to develop AR lenses.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/snapchat1.jfif",
     },
     {
         title: "Web Development",
         description: "OPTICA JIIT Chapter is known for organizing various events and workshops. Students got hands on experience with the web development workshop which was conducted with great enthusiasm.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/webdev.jpg",
     },
     {
         title: "Placement Series",
         description: "The PLACEMENT SERIES, conducted by JIIT OPTICA STUDENT CHAPTER is the roadmap to getting the placements right, hence is much awaited by all the students. ",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/placement.png",
     },
     {
         title: "Photoshop Workshop",
         description: "Photoshop has become such a huge part of modern culture that even those who have never used it have often heard of it. This one-day Photoshop workshop organized by JIIT OPTICA STUDENT CHAPTER taught the skills needed to successfully use Photoshop for both online and print imagery.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/Ps.jpg",
     }
 ];
 
@@ -70,32 +70,32 @@ const eventData2018_19 = [
     {
         title: "JSCOP",
         description: "JIIT OPTICA STUDENT CHAPTER organises JSCOP for both technical as well as non-technical competitions to provide an ever-evolving platform for students from all nooks and corners.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/jscop19.jpg",
     },
     {
         title: "Zomato HQ Visit",
         description: "In the quest to bridge the industry-academia divide, the members of our chapter went for an industry visit to Zomato HQ, Gurugram.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/2019_zomato.jpeg",
     },
     {
         title: "Aperture",
         description: "JIIT OPTICA STUDENT CHAPTER, the only known for its multitude of competitions and events ranging from academic to non-academic fortes and fields, conducts online scientific photography contest, termed “Aperture”.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/Aperture.jpg",
     },
     {
         title: "International Day Of Light",
         description: "International Day of Light is a global initiative highlighting the importance of light and light-based technologies. Our student chapter has been supporting local events of various communities through participation in stimulating activities and this was one of them.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/international day of light.jpeg",
     },
     {
         title: "Computational Physics Workshop",
         description: "Students who attended the workshop on Computational Physics were taught how to simulate a black hole on their computers.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/Physics.png",
     },
     {
         title: "Student Leadership Conference",
         description: "Manan Jain attended the SLC and FiO+LS Conference at Washington, DC The Frontiers in Optics + Laser Science Conference and Exhibition sheds light on the latest advances in optics and photonics ranging from physics and chemistry to biology and medicine.",
-        imgUrl: "/images/events/code-orate.jpeg",
+        imgUrl: "/images/events/Student_leadership_confrence.png",
     }
 ];
 
