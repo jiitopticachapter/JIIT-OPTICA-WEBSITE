@@ -13,7 +13,7 @@ const InfoBox1 = (props) => {
     return (
         <div data-aos="fade-up" className="infobox">
             <div className="infobox_img">
-                <img src={props.image} alt="img here" />
+                <img loading="lazy" src={props.image} alt={props.heading} />
             </div>
             <div className="infobox_content">
                 <div className="infobox_heading"><h1>{props.heading}</h1></div>
@@ -31,7 +31,7 @@ const InfoBox2 = (props) => {
                 <div className="infobox_info"><p>{props.info}</p></div>
             </div>
             <div className="infobox_img">
-                <img src={props.image} alt="img here" />
+                <img loading="lazy" src={props.image} alt={props.heading} />
             </div>
 
         </div>

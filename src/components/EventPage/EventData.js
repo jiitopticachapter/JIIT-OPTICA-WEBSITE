@@ -28,7 +28,7 @@ const eventData2022_23 = [
     {
         title: "Ideathon",
         description: "Ideathon provides the young entrepreneurs with a platform to present their business idea in a fascinating way and win exciting prizes.",
-        imgUrl: "/images/events/Ideathon.webp",
+        imgUrl: "/images/events/Ideathon.png",
     }
     
 ];
