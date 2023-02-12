@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./MentorInfo.scss";
 import { useState } from "react";
-import 'aos/dist/aos.css';
-import AOS from 'aos';
+import "aos/dist/aos.css";
+import AOS from "aos";
 import { useEffect } from "react";
 
 function MentorInfo() {
@@ -15,7 +15,7 @@ function MentorInfo() {
     AOS.init({
       offset: 200,
       duration: 600,
-      easing: 'ease-in-sine',
+      easing: "ease-in-sine",
       delay: 100,
     });
   }, []);
@@ -25,10 +25,20 @@ function MentorInfo() {
       <div className="mentor">
         <h1 className="mentor-title">OUR MENTORS</h1>
         <div className="mentor-card-container">
-
-          <div data-aos="zoom-in"  className="mentor-details" onMouseLeave={() => setIsShown1(true)}>
-            <div className="mentor-image" onMouseEnter={() => setIsShown1(false)} >
-              <img src="../images/mentors/anuraj_panwar.jpg" alt="img" width="200px" />
+          <div
+            data-aos="zoom-in"
+            className="mentor-details"
+            onMouseLeave={() => setIsShown1(true)}
+          >
+            <div
+              className="mentor-image"
+              onMouseEnter={() => setIsShown1(false)}
+            >
+              <img
+                src="../images/mentors/anuraj_panwar.jpg"
+                alt="img"
+                width="200px"
+              />
             </div>
             <div className="mentor-content">
               <h2>
@@ -43,9 +53,20 @@ function MentorInfo() {
             {isShown1 && <h2 className="mentor-name">Dr. ANURAJ PANWAR</h2>}
           </div>
 
-          <div data-aos="zoom-in" className="mentor-details" onMouseLeave={() => setIsShown2(true)}>
-            <div className="mentor-image" onMouseEnter={() => setIsShown2(false)} >
-              <img src="../images/mentors/manoj_tripathi.png" alt="img" width="200px" />
+          <div
+            data-aos="zoom-in"
+            className="mentor-details"
+            onMouseLeave={() => setIsShown2(true)}
+          >
+            <div
+              className="mentor-image"
+              onMouseEnter={() => setIsShown2(false)}
+            >
+              <img
+                src="../images/mentors/manoj_tripathi.png"
+                alt="img"
+                width="200px"
+              />
             </div>
             <div className="mentor-content">
               <h2>
@@ -60,8 +81,15 @@ function MentorInfo() {
             {isShown2 && <h2 className="mentor-name">Dr. Manoj Tripathi</h2>}
           </div>
 
-          <div  data-aos="zoom-in"   className="mentor-details" onMouseLeave={() => setIsShown3(true)}>
-            <div className="mentor-image" onMouseEnter={() => setIsShown3(false)} >
+          <div
+            data-aos="zoom-in"
+            className="mentor-details"
+            onMouseLeave={() => setIsShown3(true)}
+          >
+            <div
+              className="mentor-image"
+              onMouseEnter={() => setIsShown3(false)}
+            >
               <img
                 src="../images/mentors/ashish_bhatnagar.jpg"
                 alt="img"
@@ -81,8 +109,7 @@ function MentorInfo() {
             {isShown3 && <h2 className="mentor-name">Dr. ASHISH BHATNAGAR</h2>}
           </div>
         </div>
-      </div> 
-      
+      </div>
     </>
   );
 }

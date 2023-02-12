@@ -172,9 +172,8 @@ export default function Gallerygrid() {
     }
   }
 
-
   return (
-
+    
     <div className="Gallery">
       <div className="gallery-recent">
         Recent Highlights

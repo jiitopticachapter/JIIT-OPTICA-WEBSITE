@@ -68,7 +68,7 @@
     left: 50%;
     text-align: center;
     height: auto;
-
+    z-index:3;
 }
 
 .jumping_arrow i {

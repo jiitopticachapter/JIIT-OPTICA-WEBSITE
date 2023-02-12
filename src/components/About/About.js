@@ -27,7 +27,6 @@ function About() {
         Through the mentorship provided by our core team, we strive to provide a real world work environment to our members to enrich their experiences.
         All of the departments of our society display, analyse, and improve upon the student's potential while the audience which partakes in our activities has their brains propelled with geeky information about recent scientific and technological facts. " />
     </div>
-
   )
 }
 
