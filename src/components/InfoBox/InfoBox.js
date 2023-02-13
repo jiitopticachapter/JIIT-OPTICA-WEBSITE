@@ -11,7 +11,7 @@ const InfoBox1 = (props) => {
       }, []);
 
     return (
-        <div data-aos="fade-up" className="infobox">
+        <div data-aos="fade-up" className="infobox infobox_1">
             <div className="infobox_img">
                 <img loading="lazy" src={props.image} alt={props.heading} />
             </div>
@@ -40,7 +40,7 @@ const InfoBox2 = (props) => {
 
 const InfoBox3 = (props) => {
     return (
-        <div data-aos="fade-up" className="infobox_3">
+        <div data-aos="fade-up" className="infobox infobox_3">
             <div className="infobox_3_heading"><h1>{props.heading}</h1></div>
             <div className="infobox_3_info"><p>{props.info}</p></div>
         </div>

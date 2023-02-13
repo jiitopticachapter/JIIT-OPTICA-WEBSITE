@@ -1,6 +1,6 @@
 const FoundingMember = [
     {
-        imgsrc:"/images/2018-19 alumni/avni handa-secretary.jpeg",
+        imgsrc:"/images/2018-19 alumni/avni handa-secretary.webp",
         name : "Avni Handa",
         designation : "Secretary",
         instaLink : "/",
