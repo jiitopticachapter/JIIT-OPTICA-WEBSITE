@@ -29,7 +29,6 @@ function App() {
         <Route path='/mentors' element={<Mentors/>} />
         <Route path='/jscop' element={<Jscop/>} />
         {/* <Route path="*" component={pageNotFound} /> */}
-       
       </Routes>
    </>
   );

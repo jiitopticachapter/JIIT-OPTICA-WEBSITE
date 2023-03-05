@@ -7,8 +7,8 @@ import Footer from '../../components/Footer/Footer'
 import JoinUs from '../../components/JoinUs/JoinUs'
 import ContactUs from '../../components/ContactUs/ContactUs'
 import ShootingStar from '../../components/ShootingStars/ShootingStars';
-
 const Home = () => {
+  
   return (
     <div>
       <ShootingStar/>

@@ -42,13 +42,6 @@ const CoreTeamData = [
         linkedinLink : "/",
     },
     {
-        imgsrc:"/images/core team img/charvi gupta.jpg",
-        name : "Charvi Gupta",
-        designation : "Content Head",
-        instaLink : "/",
-        linkedinLink : "/",
-    },
-    {
         imgsrc:"/images/core team img/naman.jpg",
         name : "Naman Gupta",
         designation : "Technical Head",
@@ -70,6 +63,20 @@ const CoreTeamData = [
         linkedinLink : "/",
     },
     {
+        imgsrc:"/images/core team img/pallavi.jpg",
+        name : "Pallavi Chaudhary",
+        designation : "Management Head",
+        instaLink : "/",
+        linkedinLink : "/",
+    },
+    {
+        imgsrc:"/images/core team img/charvi gupta.jpg",
+        name : "Charvi Gupta",
+        designation : "Content Head",
+        instaLink : "/",
+        linkedinLink : "/",
+    },
+    {
         imgsrc:"/images/core team img/puru tiwari.jpg",
         name : "Puru Tiwari",
         designation : "Public Relations Head",
@@ -80,13 +87,6 @@ const CoreTeamData = [
         imgsrc:"/images/core team img/Nami_Jain.jpg",
         name : "Nami Jain",
         designation : "Public Relations Head",
-        instaLink : "/",
-        linkedinLink : "/",
-    },
-    {
-        imgsrc:"/images/core team img/pallavi.jpg",
-        name : "Pallavi Chaudhary",
-        designation : "Management Head",
         instaLink : "/",
         linkedinLink : "/",
     },
