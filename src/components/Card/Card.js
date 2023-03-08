@@ -1,6 +1,4 @@
 import "./Card.scss"
-import { NavLink } from "react-router-dom"
-
 import React from 'react'
 
 const Card = (props) => {
@@ -26,8 +24,8 @@ const Card = (props) => {
             <h1 className="card_name">{props.name}</h1>
             <p>{props.designation}</p>
             <div className="social_links">
-              <NavLink to={props.instaLink} className="social_links_icon"><i className="fa-brands fa-instagram"></i></NavLink>
-              <NavLink to={props.linkedinLink} className="social_links_icon"><i className="fa-brands fa-linkedin-in"></i></NavLink>
+              <a href={props.instaLink} className="social_links_icon"><i className="fa-brands fa-instagram"></i></a>
+              <a href={props.linkedinLink} className="social_links_icon"><i className="fa-brands fa-linkedin-in"></i></a>
             </div>
           </div>
         </div>
