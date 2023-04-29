@@ -12,23 +12,23 @@ const eventData2022_23 = [
     {
         title: "Bhailang",
         description: "Bhai Lang is the new trend running in the world of programming and has gained a lot of popularity. Get a chance to expand the horizons of your knowledge, learn, compete and win exciting rewards in JSCOP's Bhai Lang Contest.",
-        imgUrl: "/images/events/Bhailang.jpg",
+        imgUrl: "/images/events/Bhailang.jpeg",
     },
     {
         title: "Trivia Falcon",
         description: "Trivia Falcon is a Quiz competition where the competitors will get a chance to test their knowledge in the field of general awareness, science and technology.",
-        imgUrl: "/images/events/TriviaFalcon.jpg",
+        imgUrl: "/images/events/TriviaFalcon.jpeg",
     },
     
     {
         title: "International Coding Contest",
         description: "In this event programmers give solutions to critical problems using code. Brag your skills and knowledge and compete in a fair, healthy and unbiased environment.",
-        imgUrl: "/images/events/ICC.jpg",
+        imgUrl: "/images/events/ICC.jpeg",
     },
     {
         title: "Ideathon",
         description: "Ideathon provides the young entrepreneurs with a platform to present their business idea in a fascinating way and win exciting prizes.",
-        imgUrl: "/images/events/Ideathon.png",
+        imgUrl: "/images/events/Ideathon.jpeg",
     }
     
 ];
@@ -37,12 +37,12 @@ const eventData2020_21 = [
     {
         title: "JSCOP",
         description: " JIIT OPTICAA conducts JSCOP every year as a ritual now that includes coding and programming events as well as hones the personality and professionalism of students with speaking and logical-thinking competitions.",
-        imgUrl: "/images/events/jscop20.jpg",
+        imgUrl: "/images/events/jscop20.jpeg",
     },
     {
         title: "Spectrum",
         description: "JIIT OPTICA STUDENT CHAPTER, the only known for its multitude of competitions and events ranging from academic to non-academic fortes and fields, conducts online scientific photography contest, uniquely termed “SPECTRUM”.",
-        imgUrl: "/images/events/spectrum.jpg",
+        imgUrl: "/images/events/spectrum.jpeg",
     },
     {
         title: "Lens Studio Workshop",
@@ -52,17 +52,17 @@ const eventData2020_21 = [
     {
         title: "Web Development",
         description: "OPTICA JIIT Chapter is known for organizing various events and workshops. Students got hands on experience with the web development workshop which was conducted with great enthusiasm.",
-        imgUrl: "/images/events/webdev.jpg",
+        imgUrl: "/images/events/webdev.jpeg",
     },
     {
         title: "Placement Series",
         description: "The PLACEMENT SERIES, conducted by JIIT OPTICA STUDENT CHAPTER is the roadmap to getting the placements right, hence is much awaited by all the students. ",
-        imgUrl: "/images/events/placement.png",
+        imgUrl: "/images/events/placement.jpeg",
     },
     {
         title: "Photoshop Workshop",
         description: "Photoshop has become such a huge part of modern culture that even those who have never used it have often heard of it. This one-day Photoshop workshop organized by JIIT OPTICA STUDENT CHAPTER taught the skills needed to successfully use Photoshop for both online and print imagery.",
-        imgUrl: "/images/events/Ps.jpg",
+        imgUrl: "/images/events/Ps.jpeg",
     }
 ];
 
@@ -71,7 +71,7 @@ const eventData2018_19 = [
     {
         title: "JSCOP",
         description: "JIIT OPTICA STUDENT CHAPTER organises JSCOP for both technical as well as non-technical competitions to provide an ever-evolving platform for students from all nooks and corners.",
-        imgUrl: "/images/events/jscop19.jpg",
+        imgUrl: "/images/events/jscop19.jpeg",
     },
     {
         title: "Zomato HQ Visit",
@@ -81,7 +81,7 @@ const eventData2018_19 = [
     {
         title: "Aperture",
         description: "JIIT OPTICA STUDENT CHAPTER, the only known for its multitude of competitions and events ranging from academic to non-academic fortes and fields, conducts online scientific photography contest, termed “Aperture”.",
-        imgUrl: "/images/events/Aperture.jpg",
+        imgUrl: "/images/events/Aperture.jpeg",
     },
     {
         title: "International Day Of Light",
@@ -91,12 +91,12 @@ const eventData2018_19 = [
     {
         title: "Computational Physics Workshop",
         description: "Students who attended the workshop on Computational Physics were taught how to simulate a black hole on their computers.",
-        imgUrl: "/images/events/Physics.png",
+        imgUrl: "/images/events/Physics.jpeg",
     },
     {
         title: "Student Leadership Conference",
         description: "Manan Jain attended the SLC and FiO+LS Conference at Washington, DC The Frontiers in Optics + Laser Science Conference and Exhibition sheds light on the latest advances in optics and photonics ranging from physics and chemistry to biology and medicine.",
-        imgUrl: "/images/events/Student_leadership_confrence.png",
+        imgUrl: "/images/events/Student_leadership_confrence.jpeg",
     }
 ];
 
