@@ -24,8 +24,8 @@ const Card = (props) => {
             <h1 className="card_name">{props.name}</h1>
             <p>{props.designation}</p>
             <div className="social_links">
-              <a href={props.instaLink} className="social_links_icon"><i className="fa-brands fa-instagram"></i></a>
-              <a href={props.linkedinLink} className="social_links_icon"><i className="fa-brands fa-linkedin-in"></i></a>
+              <a href={props.instaLink} className="social_links_icon" target="_blank" rel="noreferrer"><i className="fa-brands fa-instagram"></i></a>
+              <a href={props.linkedinLink} className="social_links_icon" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
             </div>
           </div>
         </div>

@@ -3,12 +3,12 @@ import React, { useEffect, useState } from 'react'
 import Card from "../Card/Card";
 import SideHeading from "../SideHeading/SideHeading";
 import YearButton from "../YearButton/YearButton";
-import {FoundingMember, AluminiData2020_21, AluminiData2021_22, AluminiData2019_20} from "./AluminiData";
+import {FoundingMember, AluminiData2020_21, AluminiData2021_22, AluminiData2019_20, AluminiData2022_23} from "./AluminiData";
 
 
 function AlumniPage() {
 
-    const [year,SetYear] = useState('2021-22');
+    const [year,SetYear] = useState('2022-23');
 
     const [AluminiData,setAluminiData] = useState(AluminiData2021_22);
 
@@ -19,6 +19,8 @@ function AlumniPage() {
             setAluminiData(AluminiData2020_21);
         } else if(year==='2019-20') {
             setAluminiData(AluminiData2019_20);
+        } else if(year==='2022-23'){
+            setAluminiData(AluminiData2022_23);
         }
     },[year]);
 
@@ -56,6 +58,7 @@ function AlumniPage() {
                         side_heading="Meet Our Alumni"
                         side_content="The future belongs to those who believe in the beauty of their dreams."
                     />
+                    <YearButton text="2022-23" SetYear={SetYear}/>
                     <YearButton text="2021-22" SetYear={SetYear}/>
                     <YearButton text="2020-21" SetYear={SetYear}/>
                     <YearButton text="2019-20" SetYear={SetYear}/>

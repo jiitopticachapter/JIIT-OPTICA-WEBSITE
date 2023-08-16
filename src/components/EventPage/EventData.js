@@ -1,3 +1,20 @@
+const eventData2023_24 = [
+    {
+        title: "Blind Coding",
+        description: "JSCOP 5.0 presents you the Blind Coding Competition in which you have to type the code with your monitors off. Doesn't this sound exciting?Yes it is!",
+        imgUrl: "/images/events/2023-2024/Blind_Coding.jpg",
+    },
+    {
+        title: "Squid Game",
+        description: "Have you ever thought of being a part of a game that will make you experience an adrenaline rush? JSCOP 5.0 presents to you its own version of the Squid game series where participants need to use their strengths and strategies to solve the brain teasing challenges!",
+        imgUrl: "/images/events/2023-2024/Squid_Game.jpeg",
+    },
+    {
+        title: "Ideathon 2.0",
+        description: "Do you have an idea that holds potential to impact the future? Is the only thing standing between you and your dream money? Don’t worry, we’ve got you covered. OPTICA presents “IDEATHON 2.0”, an amazing opportunity to woo the panel and win cash prizes. Few path breaking ideas will also get the chance to be funded!!",
+        imgUrl: "/images/events/2023-2024/Ideathon2.jpeg",
+    },
+];
 const eventData2022_23 = [
     {
         title: "Codeorate",
@@ -102,4 +119,4 @@ const eventData2018_19 = [
 
 
 
-export {eventData2018_19, eventData2020_21, eventData2022_23};
+export {eventData2018_19, eventData2020_21, eventData2022_23, eventData2023_24};
