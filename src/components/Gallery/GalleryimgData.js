@@ -1,18 +1,18 @@
 const recenthighlights=[
   {
-     imgUrl:"/images/recent highlights/gallery1.jpeg"
+     imgUrl:"/images/recent highlights/gallery1.jpg"
   },
 
   {
-     imgUrl:"/images/recent highlights/gallery2.jpeg"
+     imgUrl:"/images/recent highlights/gallery2.jpg"
   },
 
   {
-     imgUrl:"/images/recent highlights/gallery3.jpeg"
+     imgUrl:"/images/recent highlights/gallery3.jpg"
   },
 
   {
-     imgUrl:"/images/recent highlights/gallery4.jpeg"
+     imgUrl:"/images/recent highlights/gallery4.jpg"
   },
 
   {
@@ -33,6 +33,48 @@ const recenthighlights=[
 
 ]
 
+const gallery2023=[
+    {
+        original:"/images/gallery images/2023 gallery/2023a.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023a.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023b.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023b.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023c.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023c.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023d.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023d.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023e.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023e.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023f.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023f.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023g.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023g.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023h.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023h.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023i.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023i.jpg",
+    },
+    {
+        original:"/images/gallery images/2023 gallery/2023j.jpg",
+        thumbnail:"/images/gallery images/2023 gallery/2023j.jpg",
+    },
+]
 
 const gallery2022=[
     {
@@ -153,4 +195,4 @@ const gallery2019=[
     },
 ]
 
-export {gallery2022,gallery2019,gallery2021,recenthighlights};
+export {gallery2023,gallery2022,gallery2019,gallery2021,recenthighlights};
