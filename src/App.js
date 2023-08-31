@@ -11,7 +11,7 @@ import Gallery from './routes/Gallery/Gallery';
 import './App.css';
 import "./index.css";
 import Mentors from './routes/MentorDetails/Mentors';
-// import Jscop from './routes/JSCOP/Jscop';
+import Jscop from './routes/JSCOP/Jscop';
 import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 
 
@@ -27,7 +27,7 @@ function App() {
         <Route path="/events" element={<Events />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path='/mentors' element={<Mentors/>} />
-        {/* <Route path='/jscop' element={<Jscop/>} /> */}
+        <Route path='/jscop' element={<Jscop/>} />
         {/* <Route path="*" component={pageNotFound} /> */}
       </Routes>
    </>
