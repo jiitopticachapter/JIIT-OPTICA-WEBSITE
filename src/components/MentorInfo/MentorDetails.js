@@ -93,6 +93,20 @@ const MentorDetails = () => {
           </div>
         </section>
         </div>
+        <div data-aos="fade-up">
+        <section className="about">
+          <div className="main">
+            <img src="/images/mentors/ravi_gupta.jpeg" alt="Mentor - Manoj Tripathi" />
+            <div className="about-text">
+              <h2>Dr. Ravi Gupta</h2>
+              <h3> CO-FACULTY ADVISOR</h3>
+              <p>
+              Dr. Ravi Gupta is an Assistant Professor in the Department of Physics and Materials Science and Engineering at JIIT Noida. He received his B.Sc. (H) Physics from Hindu College, University of Delhi in 2011 and M.Sc. Physics from the Department of Physics and Astrophysics, University of Delhi in 2013. He received his Ph.D. in Applied Physics from Delhi Technological University in 2018, under the supervision of Prof. (Dr.) Suresh C. Sharma. His research focused on the minimization and condensation of graphene sheets and carbon nanotubes/fibers in a plasma environment. He secured the 56th rank in the UGC-CSIR NET/JRF exam in 2015. Dr. Ravi worked as an Assistant Professor at Bhaskaracharya College of Applied Sciences, DU for one year. To explore new frontiers in the fields of physics and computer science, he joined Cyberimmersions Digital Forensics Solutions Lab as Director and Researcher. He worked on the identification and simplification of discontinuities present in voice sound wave forms and spectrograms under different stress conditions. He also worked on the optimization and abstraction of spatial and temporal tampering in digital video files using the concept of optical flow field vector. He has obtained many certifications in cyber forensics from EC Council US.
+              </p>
+            </div>
+          </div>
+        </section>
+        </div>
       </div>
     </>
   );

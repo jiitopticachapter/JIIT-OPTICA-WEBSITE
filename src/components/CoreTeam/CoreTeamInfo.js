@@ -43,7 +43,7 @@ const CoreTeamData = [
     },
     {
         imgsrc:"/images/core team img/KAAVYA_BARANWAL.jpg",
-        name : "Kavya Baranwal",
+        name : "Kaavya Baranwal",
         designation : "Technical Head",
         instaLink : "https://instagram.com/kaavya.baranwal?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
         linkedinLink : "https://www.linkedin.com/in/kaavya-baranwal",

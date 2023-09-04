@@ -108,6 +108,33 @@ function MentorInfo() {
             </div>
             {isShown3 && <h2 className="mentor-name">Dr. ASHISH BHATNAGAR</h2>}
           </div>
+          <div
+            data-aos="zoom-in"
+            className="mentor-details"
+            onMouseLeave={() => setIsShown3(true)}
+          >
+            <div
+              className="mentor-image"
+              onMouseEnter={() => setIsShown3(false)}
+            >
+              <img
+                src="../images/mentors/ravi_gupta.jpeg"
+                alt="img"
+                width="200px"
+              />
+            </div>
+            <div className="mentor-content">
+              <h2>
+                Dr. RAVI GUPTA
+                <br />
+                <span>CO-FACULTY ADVISOR</span>
+                <Link to="/mentors">
+                  <button className="mentor-button">Know more</button>
+                </Link>
+              </h2>
+            </div>
+            {isShown3 && <h2 className="mentor-name">Dr. RAVI GUPTA</h2>}
+          </div>
         </div>
       </div>
     </>
