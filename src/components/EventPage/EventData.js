@@ -14,6 +14,11 @@ const eventData2023_24 = [
         description: "Do you have an idea that holds potential to impact the future? Is the only thing standing between you and your dream money? Don’t worry, we’ve got you covered. OPTICA presents “IDEATHON 2.0”, an amazing opportunity to woo the panel and win cash prizes. Few path breaking ideas will also get the chance to be funded!!",
         imgUrl: "/images/events/2023-2024/Ideathon2.jpeg",
     },
+    {
+        title:"Lift-Off",
+        description:"Placements !! Hustle is real and success is the only destination. But worry not, for we're here to help.Boost your resume, elevate your experience, and secure your path to success at JIIT OPTICA STUDENT Chapter's 'Lift-Off : Headstart for Placements! Immerse yourself in inspiring speakers, fierce competitions, and enlightening tech talks.This event is your key to shaping a brighter future.The stage is set for an unforgettable season of growth, discovery and triumph. Stay tuned!",
+        imgUrl:"/images/events/2023-2024/LIFT-OFF (A3 LANDSCAPE) POSTER.png"
+    }
 ];
 const eventData2022_23 = [
     {
