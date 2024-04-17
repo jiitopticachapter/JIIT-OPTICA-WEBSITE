@@ -79,8 +79,8 @@ function ContactUs() {
               <i className="fas fa-phone-alt"></i>
               {/* <div className="ContactUs-topic">Phone</div> */}
               <div className="ContactUs-details2">
-                <div className="ContactUs-text-one">+91 9044552333</div>
-                <div className="ContactUs-text-two">+91 8882988313</div>
+                <div className="ContactUs-text-one">Aman Tripathi +91 81156101015 </div>
+                <div className="ContactUs-text-two">Harsh Sharma +91 8383936346</div>
               </div>
             </div>
             <div className="ContactUs-email ContactUs-details">
