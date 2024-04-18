@@ -7,11 +7,11 @@
     position: fixed;
     width: 100%;
     z-index: 10;
-    background-color:#171c28;;
+    background-color: rgba(2, 2, 69, 0);
 }
 
 .header-bg {
-    background-color: rgb(23, 28, 40,0.75);
+    background-color: rgb(23, 28, 40, 0.75);
     transition: 0.5s;
     backdrop-filter: blur(2px);
 }
@@ -76,7 +76,7 @@ section img {
     }
 
     ul {
-        background-color:#171c28;
+        background-color: #171c28;
     }
 
     section img {
