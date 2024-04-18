@@ -1,5 +1,25 @@
 const eventData2023_24 = [
     {
+        title: "Lift-Off",
+        description: "Boost your resume and secure your path to success with JIIT OPTICA STUDENT Chapter's 'Lift-Off: Headstart for Placements!' event. Engage with inspiring speakers, participate in coding competitions, and attend enlightening tech talks. This event is your key to a brighter future.",
+        imgUrl: "/images/events/2023-2024/LIFT-OFF (A3 LANDSCAPE) POSTER.png"
+    },
+    {
+        title: "Code Convo",
+        description: "Join 'Code Convo' by Atulya Kaushik, a part of JIIT OPTICA STUDENT Chapter's tech talk series. Dive into insightful discussions on coding trends, techniques, and industry insights.",
+        imgUrl: "/images/events/2023-2024/code_convo.jpeg"
+    },
+    {
+        title: "Code-Hub",
+        description: "Participate in JIIT OPTICA STUDENT Chapter's 'CodeHub', a thrilling coding competition. Challenge your coding skills, learn new techniques, and compete for the top spot!",
+        imgUrl: "/images/events/2023-2024/Codehub_a3_png.png"
+    },
+    {
+        title: "Resume Reimagine",
+        description: "Join JIIT OPTICA STUDENT Chapter's 'Resume Reimagine' workshop to enhance your resume. Learn effective strategies to stand out in the job market and pave your way to a successful career",
+        imgUrl: "/images/events/2023-2024/resume_reimagine_a3_final.png"
+    },
+    {
         title: "Blind Coding",
         description: "JSCOP 5.0 presents you the Blind Coding Competition in which you have to type the code with your monitors off. Doesn't this sound exciting?Yes it is!",
         imgUrl: "/images/events/2023-2024/Blind_Coding.jpg",
@@ -14,12 +34,8 @@ const eventData2023_24 = [
         description: "Do you have an idea that holds potential to impact the future? Is the only thing standing between you and your dream money? Don’t worry, we’ve got you covered. OPTICA presents “IDEATHON 2.0”, an amazing opportunity to woo the panel and win cash prizes. Few path breaking ideas will also get the chance to be funded!!",
         imgUrl: "/images/events/2023-2024/Ideathon2.jpeg",
     },
-    {
-        title:"Lift-Off",
-        description:"Placements !! Hustle is real and success is the only destination. But worry not, for we're here to help.Boost your resume, elevate your experience, and secure your path to success at JIIT OPTICA STUDENT Chapter's 'Lift-Off : Headstart for Placements! Immerse yourself in inspiring speakers, fierce competitions, and enlightening tech talks.This event is your key to shaping a brighter future.The stage is set for an unforgettable season of growth, discovery and triumph. Stay tuned!",
-        imgUrl:"/images/events/2023-2024/LIFT-OFF (A3 LANDSCAPE) POSTER.png"
-    }
-];
+   ]
+
 const eventData2022_23 = [
     {
         title: "Codeorate",
@@ -41,7 +57,7 @@ const eventData2022_23 = [
         description: "Trivia Falcon is a Quiz competition where the competitors will get a chance to test their knowledge in the field of general awareness, science and technology.",
         imgUrl: "/images/events/TriviaFalcon.jpeg",
     },
-    
+
     {
         title: "International Coding Contest",
         description: "In this event programmers give solutions to critical problems using code. Brag your skills and knowledge and compete in a fair, healthy and unbiased environment.",
@@ -52,7 +68,7 @@ const eventData2022_23 = [
         description: "Ideathon provides the young entrepreneurs with a platform to present their business idea in a fascinating way and win exciting prizes.",
         imgUrl: "/images/events/Ideathon.jpeg",
     }
-    
+
 ];
 
 const eventData2020_21 = [
@@ -124,4 +140,4 @@ const eventData2018_19 = [
 
 
 
-export {eventData2018_19, eventData2020_21, eventData2022_23, eventData2023_24};
+export { eventData2018_19, eventData2020_21, eventData2022_23, eventData2023_24 };

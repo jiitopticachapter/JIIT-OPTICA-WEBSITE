@@ -3,22 +3,32 @@ const recenthighlights = [
         imgUrl: "/images/recent highlights/IMG_2385.jpg"
     },
     {
-        imgUrl: "/images/recent highlights/IMG_2391.jpg"
+        imgUrl: "/images/recent highlights/rh-4.jpeg"
     },
     {
         imgUrl: "/images/recent highlights/IMG_2393.jpg"
     },
     {
+        imgUrl: "/images/recent highlights/rh-1.jpeg"
+    },
+    {
         imgUrl: "/images/recent highlights/IMG_2395.jpg"
     },
+
     {
         imgUrl: "/images/recent highlights/IMG_2398.jpg"
     },
     {
-        imgUrl: "/images/recent highlights/IMG_2414.jpg"
+        imgUrl: "/images/recent highlights/rh-2.jpeg"
     },
     {
         imgUrl: "/images/recent highlights/IMG_2423.jpg"
+    },
+    {
+        imgUrl: "/images/recent highlights/rh-3.jpeg"
+    },
+    {
+        imgUrl: "/images/recent highlights/rh-5.jpeg"
     },
     {
         imgUrl: "/images/recent highlights/IMG_2431.jpg"
@@ -34,9 +44,6 @@ const recenthighlights = [
     },
     {
         imgUrl: "/images/recent highlights/IMG_3001.JPG"
-    },
-    {
-        imgUrl: "/images/recent highlights/gallery1.jpg"
     },
 
     {
