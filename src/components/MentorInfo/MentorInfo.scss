@@ -168,35 +168,38 @@
 }
 
 @media(max-width:1024px) {
-  .about {
-    .main {
-      width: 90vw;
-      display: flex;
-      justify-content: center;
-      flex-direction: column;
+  .mentor-info {
+    .about {
+      .main {
 
-      img {
-        flex: 0 100%;
-        max-width: 100%;
-      }
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 90vw;
 
-      .about-text {
-        flex: 0 100%;
-        max-width: 100%;
-        padding: 15px;
-
-        h2,
-        h3 {
-          text-align: center;
+        img {
+          flex: 0 100%;
+          max-width: 100%;
         }
 
-        p {
-          text-align: justify;
+        .about-text {
+          flex: 0 100%;
+          max-width: 100%;
+          padding: 15px;
+
+          h2,
+          h3 {
+            text-align: center;
+          }
+
+          p {
+            text-align: justify;
+          }
         }
       }
+
+
     }
-
-
   }
 
 
