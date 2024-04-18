@@ -5,6 +5,11 @@ const eventData2023_24 = [
         imgUrl: "/images/events/2023-2024/LIFT-OFF (A3 LANDSCAPE) POSTER.png"
     },
     {
+        title: "Code Convo",
+        description: "Join 'Code Convo' by Atulya Kaushik, a part of JIIT OPTICA STUDENT Chapter's tech talk series. Dive into insightful discussions on coding trends, techniques, and industry insights.",
+        imgUrl: "/images/events/2023-2024/code_convo.jpeg"
+    },
+    {
         title: "Code-Hub",
         description: "Participate in JIIT OPTICA STUDENT Chapter's 'CodeHub', a thrilling coding competition. Challenge your coding skills, learn new techniques, and compete for the top spot!",
         imgUrl: "/images/events/2023-2024/Codehub_a3_png.png"
