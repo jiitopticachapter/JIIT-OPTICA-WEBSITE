@@ -1,7 +1,7 @@
 <div align = "center">
 
 
-<img height=100px src= "https://jiitopticachapter.in/images/logo.png">
+<img height=100px src= "https://jiitopticachapter.com/images/logo.png">
 
 <a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/company/thapar-acm-student-chapter"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
