@@ -44,3 +44,4 @@ The website is up and running on [www.jiitopticachapter.in](https://jiitopticach
 - [Deepti Jain](https://github.com/deepti1028)
 - [Nancy Soni](https://github.com/Nanncyy)
 - [Rajat Bhati](https://github.com/Rajatt09)
+- [Aryan Goyal](https://github.com/AryanAg08)
