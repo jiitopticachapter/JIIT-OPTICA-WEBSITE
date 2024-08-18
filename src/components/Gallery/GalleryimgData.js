@@ -3,7 +3,7 @@ const recenthighlights = [
     imgUrl: "/images/recent highlights/IMG_2385.jpg",
   },
   {
-    imgUrl: "/images/recent highlights/rh-4.jpeg",
+    imgUrl: "/images/recent highlights/rh-10.jpeg",
   },
   {
     imgUrl: "/images/recent highlights/IMG_2393.jpg",
@@ -19,7 +19,7 @@ const recenthighlights = [
     imgUrl: "/images/recent highlights/IMG_2398.jpg",
   },
   {
-    imgUrl: "/images/recent highlights/rh-2.jpeg",
+    imgUrl: "/images/recent highlights/rh-9.jpeg",
   },
   {
     imgUrl: "/images/recent highlights/IMG_2423.jpg",
@@ -28,7 +28,7 @@ const recenthighlights = [
     imgUrl: "/images/recent highlights/rh-3.jpeg",
   },
   {
-    imgUrl: "/images/recent highlights/rh-5.jpeg",
+    imgUrl: "/images/recent highlights/rh-11.jpeg",
   },
   {
     imgUrl: "/images/recent highlights/IMG_2431.jpg",
@@ -43,35 +43,35 @@ const recenthighlights = [
     imgUrl: "/images/recent highlights/IMG_2977.JPG",
   },
   {
-    imgUrl: "/images/recent highlights/IMG_3001.JPG",
+    imgUrl: "/images/recent highlights/rh-13.jpeg",
   },
 
   {
-    imgUrl: "/images/recent highlights/gallery2.jpg",
+    imgUrl: "/images/recent highlights/rh-6.jpeg",
   },
 
   {
-    imgUrl: "/images/recent highlights/gallery3.jpg",
+    imgUrl: "/images/recent highlights/rh-7.jpeg",
   },
 
   {
-    imgUrl: "/images/recent highlights/gallery4.jpg",
+    imgUrl: "/images/recent highlights/rh-8.jpeg",
   },
 
   {
-    imgUrl: "/images/recent highlights/gallery5.jpeg",
+    imgUrl: "/images/recent highlights/rh-15.jpeg",
   },
 
   {
-    imgUrl: "/images/recent highlights/gallery6.jpeg",
+    imgUrl: "/images/recent highlights/rh-16.jpeg",
   },
 
   {
-    imgUrl: "/images/recent highlights/gallery7.jpeg",
+    imgUrl: "/images/recent highlights/rh-14.jpeg",
   },
 
   {
-    imgUrl: "/images/recent highlights/gallery8.jpeg",
+    imgUrl: "/images/recent highlights/rh-12.jpeg",
   },
 ];
 

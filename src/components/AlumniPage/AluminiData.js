@@ -1,12 +1,5 @@
 const FoundingMember = [
   {
-    imgsrc: "/images/2018-19 alumni/avni handa-secretary.webp",
-    name: "Avni Handa",
-    designation: "Secretary",
-    instaLink: "/",
-    linkedinLink: "/",
-  },
-  {
     imgsrc: "/images/2018-19 alumni/ishan joshi-p.jpeg",
     name: "Ishan Joshi",
     designation: "PRESIDENT",
@@ -24,6 +17,13 @@ const FoundingMember = [
     imgsrc: "/images/2018-19 alumni/sanya pandey-treasurer.jpeg",
     name: "Sanya Pandey",
     designation: "Treasurer",
+    instaLink: "/",
+    linkedinLink: "/",
+  },
+  {
+    imgsrc: "/images/2018-19 alumni/avni handa-secretary.webp",
+    name: "Avni Handa",
+    designation: "Secretary",
     instaLink: "/",
     linkedinLink: "/",
   },
