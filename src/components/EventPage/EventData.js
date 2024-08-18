@@ -1,5 +1,29 @@
 const eventData2023_24 = [
   {
+    title: "Code Wars",
+    description:
+      "Calling all coding jedis! Prepare for a multiple round coding battle in the battlefield of Code Wars!",
+    imgUrl: "/images/events/2023-2024/codewars.jpeg",
+  },
+  {
+    title: "Electrify Dash",
+    description:
+      "An electrifying event where the race is on to light the bulb by completing the circuit! Are you up for the challenge?",
+    imgUrl: "/images/events/2023-2024/electrifydash.jpeg",
+  },
+  {
+    title: "Secret Games",
+    description:
+      "Unleash your gaming skills in multiple rounds of thrilling challenges, starting with the epic `Smash Kart` battle!",
+    imgUrl: "/images/events/2023-2024/secretgame.jpeg",
+  },
+  {
+    title: "Photo-onics",
+    description:
+      "Send us pictures of natural physics phenomenons happening around you and get a chance to win amazing prices.",
+    imgUrl: "/images/events/2023-2024/photonics.jpeg",
+  },
+  {
     title: "Lift-Off",
     description:
       "Boost your resume and secure your path to success with JIIT OPTICA STUDENT Chapter's 'Lift-Off: Headstart for Placements!' event. Engage with inspiring speakers, participate in coding competitions, and attend enlightening tech talks. This event is your key to a brighter future.",
@@ -34,30 +58,6 @@ const eventData2023_24 = [
     description:
       "Have you ever thought of being a part of a game that will make you experience an adrenaline rush? JSCOP 5.0 presents to you its own version of the Squid game series where participants need to use their strengths and strategies to solve the brain teasing challenges!",
     imgUrl: "/images/events/2023-2024/Squid_Game.jpeg",
-  },
-  {
-    title: "Code Wars",
-    description:
-      "Calling all coding jedis! Prepare for a multiple round coding battle in the battlefield of Code Wars!",
-    imgUrl: "/images/events/2023-2024/codewars.jpeg",
-  },
-  {
-    title: "Electrify Dash",
-    description:
-      "An electrifying event where the race is on to light the bulb by completing the circuit! Are you up for the challenge?",
-    imgUrl: "/images/events/2023-2024/electrifydash.jpeg",
-  },
-  {
-    title: "Secret Games",
-    description:
-      "Unleash your gaming skills in multiple rounds of thrilling challenges, starting with the epic `Smash Kart` battle!",
-    imgUrl: "/images/events/2023-2024/secretgame.jpeg",
-  },
-  {
-    title: "Photo-onics",
-    description:
-      "Send us pictures of natural physics phenomenons happening around you and get a chance to win amazing prices.",
-    imgUrl: "/images/events/2023-2024/photonics.jpeg",
   },
 ];
 
