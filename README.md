@@ -1,12 +1,12 @@
 <div align = "center">
 
 
-<img height=100px src= "https://jiitopticachapter.in/images/logo.png">
+<img height=100px src= "https://jiitopticachapter.com/images/logo.png">
 
-<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://www.linkedin.com/company/thapar-acm-student-chapter"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://instagram.com/acmthapar?igshid=1r2k6z9w5926o"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+
+<a href="https://www.linkedin.com/company/jiitopticachapter/mycompany/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/jiitopticachapter/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/jiitopticachapter"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
 </div>
 
