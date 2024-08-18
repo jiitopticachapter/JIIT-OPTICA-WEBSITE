@@ -73,7 +73,7 @@ const AluminiData2023_24 = [
     linkedinLink: "https://www.linkedin.com/in/aryan-aggarwal-9b8073228/",
   },
   {
-    imgsrc: "/images/2023-2024 alumni/Ansh_Kilhor.jpg",
+    imgsrc: "/images/2023-2024 alumni/Ansh_kilhor.jpg",
     name: "Ansh kilhor",
     designation: "Strategic Chief",
     instaLink:
