@@ -16,7 +16,8 @@ function Footer() {
         <a href="https://github.com/jiitopticachapter"><i className="icon fa-brands fa-github fa-2xl" /></a>
         <a href="https://www.facebook.com/jiitopticachapter/"><i className="icon fa-brands fa-facebook fa-2xl" /></a>
         <a href="https://twitter.com/jiitoptica"><i className="icon fa-brands fa-twitter fa-2xl" /></a>
-        <a href="mailto: jiitopticachapter@gmail.com"><i className="icon fa-regular fa-envelope fa-2xl" /></a>
+        <a href="mailto:opticastudentchapterjiit@gmail.com"><i className="icon fa-regular fa-envelope fa-2xl" /></a>
+
 
       </div>
     </div>

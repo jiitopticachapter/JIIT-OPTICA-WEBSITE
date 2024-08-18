@@ -24,10 +24,15 @@ function ContactUs() {
     message: form.message,
     to_name: "JIIT OPTICA",
     phone_no: form.number,
-    reply_to: "jiitopticachapter@gmail.com",
+    reply_to: "opticastudentchapterjiit@gmail.com",
   };
 
   const Form = useRef();
+  
+  const copyToClipboard = (text) => {
+    navigator.clipboard.writeText(text);
+    alert("Phone number copied to clipboard!");
+  };
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -94,11 +99,11 @@ function ContactUs() {
                 ></i>
                 {/* <div className="ContactUs-topic">Phone</div> */}
                 <div className="ContactUs-details2">
-                  <div className="ContactUs-text-one">
+                  <div className="ContactUs-text-one" onClick={() => copyToClipboard("+91 9026152678")}>
                     Shantanu Pandey <br /> +91 9026152678{" "}
                   </div>
                   <br />
-                  <div className="ContactUs-text-two">
+                  <div className="ContactUs-text-two" onClick={() => copyToClipboard("+91 7439557090")}>
                     Sai Raj Singh <br /> +91 7439557090
                   </div>
                 </div>
@@ -109,7 +114,9 @@ function ContactUs() {
                 <div className="ContactUs-details2">
                   {/* <div className="ContactUs-text-one">contact@jiitopticachapter.com</div> */}
                   <div className="ContactUs-text-two">
-                    jiitopticachapter@gmail.com
+                    <a href="mailto:opticastudentchapterjiit@gmail.com">
+                  opticastudentchapterjiit@gmail.com
+                  </a>
                   </div>
                 </div>
               </div>
