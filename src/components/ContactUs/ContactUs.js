@@ -102,12 +102,26 @@ function ContactUs() {
                   <div className="ContactUs-text-one" onClick={() => copyToClipboard("+91 9026152678")}>
                     Shantanu Pandey <br /> +91 9026152678{" "}
                   </div>
-                  <br />
+                  {/* <br /> */}
+                  
+                </div>
+              </div>
+
+              <div className="ContactUs-phone ContactUs-details">
+                <i
+                  className="fas fa-phone-alt"
+                  style={{ fontSize: "20px" }}
+                ></i>
+                {/* <div className="ContactUs-topic">Phone</div> */}
+                <div className="ContactUs-details2">
                   <div className="ContactUs-text-two" onClick={() => copyToClipboard("+91 7439557090")}>
                     Sai Raj Singh <br /> +91 7439557090
                   </div>
+                  {/* <br /> */}
+                  
                 </div>
               </div>
+             
               <div className="ContactUs-email ContactUs-details">
                 <i className="fas fa-envelope" style={{ fontSize: "20px" }}></i>
                 {/* <div className="ContactUs-topic">Email</div> */}
