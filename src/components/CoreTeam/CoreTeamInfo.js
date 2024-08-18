@@ -46,18 +46,18 @@ const CoreTeamData = [
     linkedinLink: "https://www.linkedin.com/in/sumant-sharma-9ba135244",
   },
   {
-    imgsrc: "/images/core team img/Rajat.png",
-    name: "Rajat Bhati",
-    designation: "Web Master",
-    instaLink: "https://www.instagram.com/rajat___.13?igsh=NWVpaWxxMzRpc2ht",
-    linkedinLink: "https://www.linkedin.com/in/rajat-bhati-6a2114216",
-  },
-  {
     imgsrc: "/images/core team img/Aryan.png",
     name: "Aryan Goyal",
     designation: "Technical Head",
     instaLink: "https://www.instagram.com/ag_0080/",
     linkedinLink: "https://www.linkedin.com/in/aryangoyal80/",
+  },
+  {
+    imgsrc: "/images/core team img/Rajat.png",
+    name: "Rajat Bhati",
+    designation: "Web Master",
+    instaLink: "https://www.instagram.com/rajat___.13?igsh=NWVpaWxxMzRpc2ht",
+    linkedinLink: "https://www.linkedin.com/in/rajat-bhati-6a2114216",
   },
   {
     imgsrc: "/images/core team img/Mayer.jpeg",
