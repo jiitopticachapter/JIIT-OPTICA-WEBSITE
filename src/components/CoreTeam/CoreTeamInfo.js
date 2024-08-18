@@ -1,95 +1,94 @@
 const CoreTeamData = [
-    {
-        imgsrc:"/images/core team img/Aman_Tripathi.jpg",
-        name : "Aman Tripathi",
-        designation : "President",
-        instaLink : "https://www.instagram.com/aman_tripathi1609/",
-        linkedinLink : "https://www.linkedin.com/in/aman-tripathi-808a4319b/",
-    },
-    {
-        imgsrc:"/images/core team img/Harsh_Sharma.webp",
-        name : "Harsh Sharma",
-        designation : "Vice President",
-        instaLink : "https://www.instagram.com/x_harsh.sharma_x/?hl=en",
-        linkedinLink : "https://www.linkedin.com/in/harshsharma20503/",
-    },
-    {
-        imgsrc:"/images/core team img/Mridul_Saraswat.jpg",
-        name : "Mridul Saraswat",
-        designation : "Treasurer",
-        instaLink : "https://www.instagram.com/saraswat.mridulll/",
-        linkedinLink : "https://www.linkedin.com/in/mridul-sarasawat-690853196/",
-    },
-    {
-        imgsrc:"/images/core team img/Anukriti_Mishra.jpg",
-        name : "Anukriti Mishra",
-        designation : "Secratary",
-        instaLink : "https://www.instagram.com/anukriti_mishra._/",
-        linkedinLink : "https://www.linkedin.com/in/anukriti-mishra16",
-    },
-    {
-        imgsrc:"/images/core team img/Aryan_Aggarwal.jpeg",
-        name : "Aryan Agarwal",
-        designation : "Strategic Chief",
-        instaLink : "https://www.instagram.com/__arynn___/?hl=en",
-        linkedinLink : "https://www.linkedin.com/in/aryan-aggarwal-9b8073228/",
-    },
-    {
-        imgsrc:"/images/core team img/Ansh_kilhor.jpg",
-        name : "Ansh kilhor",
-        designation : "Strategic Chief",
-        instaLink : "https://instagram.com/ansh._.05?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
-        linkedinLink : "https://www.linkedin.com/in/ansh-kilhor-b875b224a",
-    },
-    {
-        imgsrc:"/images/core team img/KAAVYA_BARANWAL.jpg",
-        name : "Kaavya Baranwal",
-        designation : "Technical Head",
-        instaLink : "https://instagram.com/kaavya.baranwal?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
-        linkedinLink : "https://www.linkedin.com/in/kaavya-baranwal",
-    },
-    {
-        imgsrc:"/images/core team img/Nancy_Soni.png",
-        name : "Nancy Soni",
-        designation : "Outreach Head",
-        instaLink : "https://instagram.com/nancyysonii?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
-        linkedinLink : "https://www.linkedin.com/in/nancy-soni-3038b31b3",
-    },
-    {
-        imgsrc:"/images/core team img/sanidhya_agarwal.jpg",
-        name : "Sanidhya Agarwal",
-        designation : "Management Head",
-        instaLink : "https://www.instagram.com/sanidhya7707/",
-        linkedinLink : "https://www.linkedin.com/in/sanidhya-agarwal-887438221/",
-    },
-    {
-        imgsrc:"/images/core team img/Prateeksha_chansoria.jpeg",
-        name : "Prateeksha Chansoria",
-        designation : "Management Head",
-        instaLink : "https://instagram.com/pc_2904?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
-        linkedinLink : "https://www.linkedin.com/in/prateeksha-chansoria-3a951a23b",
-    },
-    {
-        imgsrc:"/images/core team img/Rijul_Raj.jpeg",
-        name : "Rijul Raj",
-        designation : "Digital Head",
-        instaLink : "https://www.instagram.com/reejool/",
-        linkedinLink : "https://www.linkedin.com/in/rijul-raj-660113245/",
-    },
-    {
-        imgsrc:"/images/core team img/Anshul_Chaturvedi.png",
-        name : "Anshul Chaturvedi",
-        designation : "Digital Head",
-        instaLink : "https://www.instagram.com/_anshulchaturvedi_/?hl=en",
-        linkedinLink : "https://www.linkedin.com/in/anshul-chaturvedi-50bb54231/",
-    },
-    {
-        imgsrc:"/images/core team img/yashv_creative.jpg",
-        name : "Yashvardhan",
-        designation : "Creative Head",
-        instaLink : "https://instagram.com/yashv_s?igshid=ZDc4ODBmNjlmNQ==",
-        linkedinLink : "https://www.linkedin.com/in/yashvardhan-shekhawat-b44b12225",
-    }
-    ];
-    
-    export default CoreTeamData;
+  {
+    imgsrc: "/images/core team img/Shantanu.png",
+    name: "Shantanu Pandey",
+    designation: "President",
+    instaLink:
+      "https://www.instagram.com/shantanu_pandey_108?igsh=c3hxZmswODRsaGt6",
+    linkedinLink: "https://www.linkedin.com/in/shantanu-pandey-b0609925b",
+  },
+  {
+    imgsrc: "/images/core team img/Sairaj.png",
+    name: "Sai Raj Singh",
+    designation: "Vice President",
+    instaLink: "https://www.instagram.com/sairajsingh04?igsh=ZmUwdW40dms1cHk3",
+    // linkedinLink: "https://www.linkedin.com/in/sai-raj-singh-67ba28248",
+  },
+  {
+    imgsrc: "/images/core team img/Tashif.png",
+    name: "Tashif Ahmad Khan",
+    designation: "Treasurer",
+    instaLink:
+      "https://www.instagram.com/khan_tashif?utm_source=qr&igsh=MTVnOThleHFzb3M4aQ==",
+    linkedinLink: "https://www.linkedin.com/in/tashif-ahmad-khan-982304244",
+  },
+  {
+    imgsrc: "/images/core team img/Vaibhav.jpeg",
+    name: "Vaibhav Vinayak",
+    designation: "Secratary",
+    instaLink:
+      "https://www.instagram.com/vaibhavvinayak47?igsh=bmY2ZXcxZ2FzdTA0&utm_source=qr",
+    linkedinLink: "https://www.linkedin.com/in/vaibhav-vinayak-9690b3172",
+  },
+  {
+    imgsrc: "/images/core team img/Nandini.png",
+    name: "Nandini Jindal",
+    designation: "Strategic Chief",
+    // instaLink: "https://www.instagram.com/",
+    linkedinLink: "https://www.linkedin.com/in/nandini-jindal-33a3a7282/",
+  },
+  {
+    imgsrc: "/images/core team img/Sumant.png",
+    name: "Sumant Sharma",
+    designation: "Strategic Chief",
+    instaLink:
+      "https://www.instagram.com/sumant45960?igsh=MXFxN3V3ZHV3dzVxaQ%3D%3D&utm_source=qr",
+    linkedinLink: "https://www.linkedin.com/in/sumant-sharma-9ba135244",
+  },
+  {
+    imgsrc: "/images/core team img/Rajat.png",
+    name: "Rajat Bhati",
+    designation: "Web Master",
+    instaLink: "https://www.instagram.com/rajat___.13?igsh=NWVpaWxxMzRpc2ht",
+    linkedinLink: "https://www.linkedin.com/in/rajat-bhati-6a2114216",
+  },
+  {
+    imgsrc: "/images/core team img/Aryan.png",
+    name: "Aryan Goyal",
+    designation: "Technical Head",
+    instaLink: "https://www.instagram.com/ag_0080/",
+    linkedinLink: "https://www.linkedin.com/in/aryangoyal80/",
+  },
+  {
+    imgsrc: "/images/core team img/Mayer.jpeg",
+    name: "Mayer Goyal",
+    designation: "Outreach Head",
+    instaLink: "https://www.instagram.com/mayer_goyallll/",
+    linkedinLink: "https://www.linkedin.com/in/mayer-goyal-07a58527a/",
+  },
+  {
+    imgsrc: "/images/core team img/Yash.png",
+    name: "Yash Mittal",
+    designation: "Management Head",
+    instaLink:
+      "https://www.instagram.com/yashmittal_05?igsh=MXI2MGR4YWhwZnQ5Yw==",
+    linkedinLink: "https://www.linkedin.com/in/yash-mittal-433307251/",
+  },
+  {
+    imgsrc: "/images/core team img/Navy.png",
+    name: "Navy Gautam",
+    designation: "Management Head",
+    instaLink: "https://www.instagram.com/navy_gautam_/",
+    linkedinLink: "https://www.linkedin.com/in/navy-gautam-0247b1249/",
+  },
+  {
+    imgsrc: "/images/core team img/Raunak.jpeg",
+    name: "Raunak Sharma",
+    designation: "Creative Head",
+    instaLink:
+      "https://www.instagram.com/raunak._.sharma_?igsh=MXFidXd0ZDQxemEwOQ==",
+    // linkedinLink: "https://www.linkedin.com/in/",
+  },
+];
+
+export default CoreTeamData;

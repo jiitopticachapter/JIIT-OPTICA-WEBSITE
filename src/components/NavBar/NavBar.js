@@ -40,7 +40,7 @@ const Navbar = () => {
         <li>
           <NavLink to="/gallery"> Gallery</NavLink>
         </li>
-        <li>
+        {/* <li>
           <a
             href="https://jscop.jiitopticachapter.com/"
             target="_blank"
@@ -48,10 +48,10 @@ const Navbar = () => {
           >
             JSCOP
           </a>
+        </li> */}
+        <li>
+          <NavLink to="/jscop">JSCOP</NavLink>
         </li>
-        {/* <li>
-                    <NavLink to="/jscop">JSCOP</NavLink>
-                </li> */}
       </ul>
       <div className="hamburger" onClick={handleclick}>
         {click ? (

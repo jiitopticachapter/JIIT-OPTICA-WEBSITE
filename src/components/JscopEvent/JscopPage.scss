@@ -1,0 +1,122 @@
+.jscop {
+  background-color: #171c28;
+  padding: 2rem;
+
+  .jscop_description {
+    padding: 2rem;
+    background-color: #f8f9fa;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+
+    p {
+      font-size: 1.5rem;
+      color: #495057;
+      line-height: 1.6;
+      font-family: "Roboto", sans-serif;
+      margin: 0;
+    }
+  }
+
+  .jscop_upcoming {
+    text-align: center;
+    margin-bottom: 3rem;
+
+    h2 {
+      font-size: 2.5rem;
+      color: #fff;
+    }
+
+    p {
+      font-size: 1.2rem;
+      color: #fff;
+    }
+  }
+
+  .jscop_image_outer_div {
+    display: flex;
+    justify-content: center;
+
+    .jscop_image {
+      // height: 200px;
+      width: 500px;
+    }
+  }
+
+  .jscop_past_events {
+    margin: 0 30px;
+
+    .jscop_year_buttons {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      margin: 2rem 0;
+    }
+
+    .jscop_event_cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-gap: 40px;
+      padding-bottom: 5rem;
+      max-width: 1200px;
+      margin: auto;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1080px) {
+  .jscop {
+    .jscop_past_events {
+      .jscop_event_cards {
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        grid-gap: 30px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .jscop {
+    padding: 1rem;
+
+    .jscop_upcoming {
+      h2 {
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 1rem;
+      }
+    }
+
+    .jscop_past_events {
+      margin: 0 20px;
+
+      .jscop_event_cards {
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+        max-width: 90%;
+        margin: auto;
+        margin-top: 25px;
+      }
+    }
+  }
+}
+
+.jscop_mid_heading {
+  text-align: center;
+
+  h1 {
+    font-size: 2rem;
+    margin: 0.5rem;
+  }
+
+  p {
+    margin: 0.5rem;
+  }
+}
+@media screen and (max-width: 1080px) {
+  .jscop_mid_heading {
+    text-align: center;
+  }
+}

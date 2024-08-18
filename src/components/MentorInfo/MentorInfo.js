@@ -78,7 +78,7 @@ function MentorInfo() {
                 </Link>
               </h2>
             </div>
-            {isShown2 && <h2 className="mentor-name">Dr. Manoj Tripathi</h2>}
+            {isShown2 && <h2 className="mentor-name">Dr. MANOJ TRIPATHI</h2>}
           </div>
 
           <div
