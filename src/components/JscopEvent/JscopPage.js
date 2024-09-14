@@ -1,7 +1,7 @@
 import "./JscopPage.scss";
 import React from "react";
 import YearButton from "../YearButton/YearButton";
-import jscop_img from "./JSCOP_7.0.png";
+import jscop_img from "./JSCOP_COMING_SOON.png";
 
 function JscopPage() {
   return (
@@ -29,11 +29,23 @@ function JscopPage() {
             target="_blank"
             rel="noreferrer"
           >
-            <YearButton text="JSCOP 6.0" />
+            <YearButton text="JSCOP 6.0"/>
+          </a>
+           <a 
+              href="https://jscop5.jiitopticachapter.com/"
+              target="_blank"
+              rel="noreferrer"
+              >
+          <YearButton text="JSCOP 5.0" />
           </a>
 
-          <YearButton text="JSCOP 5.0" />
+          <a 
+              href="https://jscop4.jiitopticachapter.com/"
+              target="_blank"
+              rel="noreferrer"
+              >
           <YearButton text="JSCOP 4.0" />
+          </a>
           {/* <YearButton text="JSCOP 3.0" />
           <YearButton text="JSCOP 2.0" /> */}
         </div>
