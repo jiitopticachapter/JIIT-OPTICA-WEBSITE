@@ -6,7 +6,10 @@ const recenthighlights = [
     imgUrl: "/images/recent highlights/IMG_9591L-min.jpg",
   },
   {
-    imgUrl: "/images/recent highlights/IMG_2385.jpg",
+    imgUrl: "/images/recent highlights/img1.jpg",
+  },
+  {
+    imgUrl: "/images/recent highlights/img2.jpg",
   },
   {
     imgUrl: "/images/recent highlights/rh-10.jpeg",
@@ -41,9 +44,6 @@ const recenthighlights = [
   },
   {
     imgUrl: "/images/recent highlights/IMG_2871.JPG",
-  },
-  {
-    imgUrl: "/images/recent highlights/IMG_2974.JPG",
   },
   {
     imgUrl: "/images/recent highlights/IMG_2977.JPG",
