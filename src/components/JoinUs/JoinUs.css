@@ -53,6 +53,10 @@
     border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 0.18);
     font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 510px;
 }
 
 .plan:hover {
@@ -70,6 +74,7 @@
 .plan-feature {
     list-style: none;
     padding: 0px;
+    flex-grow: 1;
 }
 
 .plan-feature li:before {
@@ -125,5 +130,11 @@
     .plan-options {
         grid-template-columns: auto;
         margin: 1rem 2rem 10rem 2rem;
+    }
+}
+@media screen and(max-width:768px) {
+    .plan-choose {
+        font-size: 16px;
+        padding: 10px;
     }
 }
