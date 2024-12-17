@@ -4,7 +4,7 @@ import React from 'react'
 function Footer() {
   return (
     <div className="footer">
-      
+
       <div className="copyright">
         Copyright &copy; 2022 JIIT OPTICA Chapter | All Rights Reserved
 
