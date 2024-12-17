@@ -1,5 +1,10 @@
 const eventData2023_24 = [
   {
+    title: "Jaypee's Got Latent",
+    description: "Inspired by @maisamayhoon iconic India's Got Latent, this show is all about bringing hidden talents to the spotlight.",
+    imgUrl: "/images/events/2023-2024/latent.jpg"
+  },
+  {
     title: "Code Wars",
     description:
       "Calling all coding jedis! Prepare for a multiple round coding battle in the battlefield of Code Wars!",

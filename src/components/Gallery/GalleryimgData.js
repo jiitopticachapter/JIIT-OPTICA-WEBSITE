@@ -1,5 +1,11 @@
 const recenthighlights = [
   {
+    imgUrl: "/images/recent highlights/IMG_6129L.jpg",
+  },
+  {
+    imgUrl: "/images/recent highlights/IMG_9591L-min.jpg",
+  },
+  {
     imgUrl: "/images/recent highlights/IMG_2385.jpg",
   },
   {
@@ -66,16 +72,18 @@ const recenthighlights = [
     imgUrl: "/images/recent highlights/rh-16.jpeg",
   },
 
-  {
-    imgUrl: "/images/recent highlights/rh-14.jpeg",
-  },
 
-  {
-    imgUrl: "/images/recent highlights/rh-12.jpeg",
-  },
 ];
 
 const gallery2024 = [
+  {
+    original: "/images/gallery images/2024 gallery/IMG_6129L.jpg",
+    thumbnail: "/images/gallery images/2024 gallery/IMG_6129L.jpg",
+  },
+  {
+    original: "/images/gallery images/2024 gallery/IMG_9591L-min.jpg",
+    thumbnail: "/images/gallery images/2024 gallery/IMG_9591L-min.jpg",
+  },
   {
     original: "/images/gallery images/2024 gallery/2024d.jpeg",
     thumbnail: "/images/gallery images/2024 gallery/2024d.jpeg",
