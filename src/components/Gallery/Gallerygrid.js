@@ -4,6 +4,7 @@ import ImageGallery from "react-image-gallery";
 import { useState, useEffect } from "react";
 import SideHeading from "../SideHeading/SideHeading";
 import {
+  gallery2025,
   gallery2024,
   gallery2023,
   gallery2022,
@@ -18,7 +19,7 @@ import Gallerybgimg from "./Gallerybgimg";
 import YearButton from "../YearButton/YearButton";
 
 export default function Gallerygrid() {
-  const [eventYear, setEventYear] = useState("2024");
+  const [eventYear, setEventYear] = useState("2025");
   const [galleryData, setGalleryData] = useState(gallery2024);
 
   useEffect(() => {
@@ -32,6 +33,8 @@ export default function Gallerygrid() {
       setGalleryData(gallery2023);
     } else if (eventYear === "2024") {
       setGalleryData(gallery2024);
+    } else if (eventYear === "2025") {
+      setGalleryData(gallery2025);
     }
   }, [eventYear]);
 
@@ -215,6 +218,11 @@ export default function Gallerygrid() {
       <div className="gallery-container">
         <div className="gallery-heading">
           <SideHeading side_heading="Year-wise Gallery" />
+          <YearButton
+            className="year-buttons"
+            text="2025"
+            SetEventYear={setEventYear}
+          />
           <YearButton
             className="year-buttons"
             text="2024"
