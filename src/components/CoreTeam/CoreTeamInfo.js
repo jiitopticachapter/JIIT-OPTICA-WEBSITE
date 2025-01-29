@@ -89,6 +89,15 @@ const CoreTeamData = [
       "https://www.instagram.com/raunak._.sharma_?igsh=MXFidXd0ZDQxemEwOQ==",
     // linkedinLink: "https://www.linkedin.com/in/",
   },
+  {
+    imgsrc: "/images/core team img/Adarsh.jpg",
+    name: "Adarsh Sharma",
+    designation: "Digital Head",
+    instaLink:
+      "https://www.instagram.com/adarsh_sharma374?igsh=NW1ldXozcGlkbTAx",
+    linkedinLink:
+      "https://www.linkedin.com/in/adarsh-sharma-3bb87027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+  },
 ];
 
 export default CoreTeamData;

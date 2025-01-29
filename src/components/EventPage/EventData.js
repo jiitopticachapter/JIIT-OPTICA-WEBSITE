@@ -1,9 +1,19 @@
-const eventData2023_24 = [
+const eventData2024_25 = [
+  {
+    title: "HC Verma's Session",
+    description:
+      "Padma Shri Prof. H.C. Verma graced JIIT with an unforgettable lecture on the profound impact of science in our daily lives.",
+    imgUrl: "/images/events/2023-2024/HC_Verma_poster.jpg",
+  },
   {
     title: "Jaypee's Got Latent",
-    description: "Inspired by @maisamayhoon iconic India's Got Latent, this show is all about bringing hidden talents to the spotlight.",
-    imgUrl: "/images/events/2023-2024/latent.jpg"
+    description:
+      "Inspired by @maisamayhoon iconic India's Got Latent, this show is all about bringing hidden talents to the spotlight.",
+    imgUrl: "/images/events/2023-2024/latent.jpg",
   },
+];
+
+const eventData2023_24 = [
   {
     title: "Code Wars",
     description:
@@ -188,4 +198,5 @@ export {
   eventData2020_21,
   eventData2022_23,
   eventData2023_24,
+  eventData2024_25,
 };

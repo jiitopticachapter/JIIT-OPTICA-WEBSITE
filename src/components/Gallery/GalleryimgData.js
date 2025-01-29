@@ -1,5 +1,14 @@
 const recenthighlights = [
   {
+    imgUrl: "/images/recent highlights/2025c_HCV.jpg",
+  },
+  {
+    imgUrl: "/images/recent highlights/2025a_HCV.jpg",
+  },
+  {
+    imgUrl: "/images/recent highlights/2025b_HCV.jpg",
+  },
+  {
     imgUrl: "/images/recent highlights/IMG_6129L.jpg",
   },
   {
@@ -23,10 +32,6 @@ const recenthighlights = [
   {
     imgUrl: "/images/recent highlights/IMG_2395.jpg",
   },
-
-  {
-    imgUrl: "/images/recent highlights/IMG_2398.jpg",
-  },
   {
     imgUrl: "/images/recent highlights/rh-9.jpeg",
   },
@@ -41,9 +46,6 @@ const recenthighlights = [
   },
   {
     imgUrl: "/images/recent highlights/IMG_2431.jpg",
-  },
-  {
-    imgUrl: "/images/recent highlights/IMG_2871.JPG",
   },
   {
     imgUrl: "/images/recent highlights/IMG_2977.JPG",
@@ -71,19 +73,42 @@ const recenthighlights = [
   {
     imgUrl: "/images/recent highlights/rh-16.jpeg",
   },
-
-
+  {
+    imgUrl: "/images/recent highlights/gallery3.jpg",
+  },
 ];
 
+const gallery2025 = [
+  {
+    original: "/images/gallery images/2025 gallery/2025a_HCV.jpg",
+    thumbnail: "/images/gallery images/2025 gallery/2025a_HCV.jpg",
+  },
+  {
+    original: "/images/gallery images/2025 gallery/2025b_HCV.jpg",
+    thumbnail: "/images/gallery images/2025 gallery/2025b_HCV.jpg",
+  },
+  {
+    original: "/images/gallery images/2025 gallery/2025c_HCV.jpg",
+    thumbnail: "/images/gallery images/2025 gallery/2025c_HCV.jpg",
+  },
+  {
+    original: "/images/gallery images/2025 gallery/Latent_a.jpg",
+    thumbnail: "/images/gallery images/2025 gallery/Latent_a.jpg",
+  },
+  {
+    original: "/images/gallery images/2025 gallery/Latent_b.jpg",
+    thumbnail: "/images/gallery images/2025 gallery/Latent_b.jpg",
+  },
+  {
+    original: "/images/gallery images/2025 gallery/2025d_HCV.jpg",
+    thumbnail: "/images/gallery images/2025 gallery/2025d_HCV.jpg",
+  },
+  {
+    original: "/images/gallery images/2025 gallery/2025e_HCV.jpg",
+    thumbnail: "/images/gallery images/2025 gallery/2025e_HCV.jpg",
+  },
+];
 const gallery2024 = [
-  {
-    original: "/images/gallery images/2024 gallery/IMG_6129L.jpg",
-    thumbnail: "/images/gallery images/2024 gallery/IMG_6129L.jpg",
-  },
-  {
-    original: "/images/gallery images/2024 gallery/IMG_9591L-min.jpg",
-    thumbnail: "/images/gallery images/2024 gallery/IMG_9591L-min.jpg",
-  },
   {
     original: "/images/gallery images/2024 gallery/2024d.jpeg",
     thumbnail: "/images/gallery images/2024 gallery/2024d.jpeg",
@@ -290,6 +315,7 @@ const gallery2019 = [
 ];
 
 export {
+  gallery2025,
   gallery2024,
   gallery2023,
   gallery2022,
