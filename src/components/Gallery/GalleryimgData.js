@@ -80,68 +80,68 @@ const recenthighlights = [
 
 const gallery2025 = [
   {
-    original: "/images/gallery images/2025 gallery/2025a_HCV.jpg",
-    thumbnail: "/images/gallery images/2025 gallery/2025a_HCV.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174662/gallery%20images/2025%20gallery/2025a_HCV_gnicej.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174662/gallery%20images/2025%20gallery/2025a_HCV_gnicej.jpg",
   },
   {
-    original: "/images/gallery images/2025 gallery/2025b_HCV.jpg",
-    thumbnail: "/images/gallery images/2025 gallery/2025b_HCV.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2025%20gallery/2025b_HCV_l8mrkz.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2025%20gallery/2025b_HCV_l8mrkz.jpg",
   },
   {
-    original: "/images/gallery images/2025 gallery/2025c_HCV.jpg",
-    thumbnail: "/images/gallery images/2025 gallery/2025c_HCV.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2025%20gallery/2025c_HCV_kqyhhc.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2025%20gallery/2025c_HCV_kqyhhc.jpg",
   },
   {
-    original: "/images/gallery images/2025 gallery/Latent_a.jpg",
-    thumbnail: "/images/gallery images/2025 gallery/Latent_a.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174662/gallery%20images/2025%20gallery/Latent_a_sqoiry.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174662/gallery%20images/2025%20gallery/Latent_a_sqoiry.jpg",
   },
   {
-    original: "/images/gallery images/2025 gallery/Latent_b.jpg",
-    thumbnail: "/images/gallery images/2025 gallery/Latent_b.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/Latent_b_zsz9dp.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/Latent_b_zsz9dp.jpg",
   },
   {
-    original: "/images/gallery images/2025 gallery/2025d_HCV.jpg",
-    thumbnail: "/images/gallery images/2025 gallery/2025d_HCV.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025d_HCV_wdkcs1.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025d_HCV_wdkcs1.jpg",
   },
   {
-    original: "/images/gallery images/2025 gallery/2025e_HCV.jpg",
-    thumbnail: "/images/gallery images/2025 gallery/2025e_HCV.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025e_HCV_n4rgt1.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025e_HCV_n4rgt1.jpg",
   },
 ];
 const gallery2024 = [
   {
-    original: "/images/gallery images/2024 gallery/2024d.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024d.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024d_ynjqtn.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024d_ynjqtn.jpg",
   },
   {
-    original: "/images/gallery images/2024 gallery/2024g.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024g.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174660/gallery%20images/2024%20gallery/2024g_xjzlzh.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174660/gallery%20images/2024%20gallery/2024g_xjzlzh.jpg",
   },
   {
-    original: "/images/gallery images/2024 gallery/2024a.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024a.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024a_yiskid.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024a_yiskid.jpg",
   },
   {
-    original: "/images/gallery images/2024 gallery/2024b.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024b.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024b_zqm8bl.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024b_zqm8bl.jpg",
   },
   {
-    original: "/images/gallery images/2024 gallery/2024c.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024c.jpeg",
-  },
-
-  {
-    original: "/images/gallery images/2024 gallery/2024e.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024e.jpeg",
-  },
-  {
-    original: "/images/gallery images/2024 gallery/2024f.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024f.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024c_aqzicd.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174659/gallery%20images/2024%20gallery/2024c_aqzicd.jpg",
   },
 
   {
-    original: "/images/gallery images/2024 gallery/2024h.jpeg",
-    thumbnail: "/images/gallery images/2024 gallery/2024h.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174660/gallery%20images/2024%20gallery/2024e_pk6vrq.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174660/gallery%20images/2024%20gallery/2024e_pk6vrq.jpg",
+  },
+  {
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2024%20gallery/2024f_kfhftp.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2024%20gallery/2024f_kfhftp.jpg",
+  },
+
+  {
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2024%20gallery/2024h_ilt9zr.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174661/gallery%20images/2024%20gallery/2024h_ilt9zr.jpg",
   },
   //   {
   //     original: "/images/gallery images/2023 gallery/2023i.jpg",
@@ -155,162 +155,162 @@ const gallery2024 = [
 
 const gallery2023 = [
   {
-    original: "/images/gallery images/2023 gallery/2023a.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023a.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174656/gallery%20images/2023%20gallery/2023a_mp1wja.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174656/gallery%20images/2023%20gallery/2023a_mp1wja.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023b.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023b.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174655/gallery%20images/2023%20gallery/2023b_deozao.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174655/gallery%20images/2023%20gallery/2023b_deozao.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023c.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023c.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174655/gallery%20images/2023%20gallery/2023c_f2nj2o.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174655/gallery%20images/2023%20gallery/2023c_f2nj2o.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023d.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023d.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174656/gallery%20images/2023%20gallery/2023d_sqlzij.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174656/gallery%20images/2023%20gallery/2023d_sqlzij.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023e.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023e.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174658/gallery%20images/2023%20gallery/2023e_sozddr.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174658/gallery%20images/2023%20gallery/2023e_sozddr.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023f.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023f.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174657/gallery%20images/2023%20gallery/2023f_xeq0dr.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174657/gallery%20images/2023%20gallery/2023f_xeq0dr.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023g.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023g.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174657/gallery%20images/2023%20gallery/2023g_kkgntg.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174657/gallery%20images/2023%20gallery/2023g_kkgntg.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023h.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023h.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174657/gallery%20images/2023%20gallery/2023h_xpkgkd.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174657/gallery%20images/2023%20gallery/2023h_xpkgkd.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023i.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023i.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174658/gallery%20images/2023%20gallery/2023i_ahblao.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174658/gallery%20images/2023%20gallery/2023i_ahblao.jpg",
   },
   {
-    original: "/images/gallery images/2023 gallery/2023j.jpg",
-    thumbnail: "/images/gallery images/2023 gallery/2023j.jpg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174660/gallery%20images/2023%20gallery/2023j_ukkc1p.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174660/gallery%20images/2023%20gallery/2023j_ukkc1p.jpg",
   },
 ];
 
 const gallery2022 = [
   {
-    original: "/images/gallery images/2022 gallery/2022.jpeg",
-    thumbnail: "/images/gallery images/2022 gallery/2022.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2022%20gallery/2022_rzvms5.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2022%20gallery/2022_rzvms5.jpg",
   },
   {
-    original: "/images/gallery images/2022 gallery/2022a.jpeg",
-    thumbnail: "/images/gallery images/2022 gallery/2022a.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2022%20gallery/2022a_fd9buo.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2022%20gallery/2022a_fd9buo.jpg",
   },
   {
-    original: "/images/gallery images/2022 gallery/2022b.jpeg",
-    thumbnail: "/images/gallery images/2022 gallery/2022b.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174632/gallery%20images/2022%20gallery/2022b_n0ecsa.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174632/gallery%20images/2022%20gallery/2022b_n0ecsa.jpg",
   },
   {
-    original: "/images/gallery images/2022 gallery/2022c.jpeg",
-    thumbnail: "/images/gallery images/2022 gallery/2022c.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174632/gallery%20images/2022%20gallery/2022c_k3eagt.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174632/gallery%20images/2022%20gallery/2022c_k3eagt.jpg",
   },
   {
-    original: "/images/gallery images/2022 gallery/2022d.jpeg",
-    thumbnail: "/images/gallery images/2022 gallery/2022d.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174632/gallery%20images/2022%20gallery/2022d_kcriso.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174632/gallery%20images/2022%20gallery/2022d_kcriso.jpg",
   },
 ];
 
 const gallery2021 = [
   {
-    original: "/images/gallery images/2021 gallery/2021a.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021a.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021a_ore88j.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021a_ore88j.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021b.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021b.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021a_ore88j.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021a_ore88j.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021c.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021c.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021c_hie1kg.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021c_hie1kg.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021d.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021d.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021d_qqnqen.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174627/gallery%20images/2021%20gallery/2021d_qqnqen.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021e.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021e.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174628/gallery%20images/2021%20gallery/2021e_rpynpn.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174628/gallery%20images/2021%20gallery/2021e_rpynpn.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021f.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021f.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174629/gallery%20images/2021%20gallery/2021f_pk5r6b.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174629/gallery%20images/2021%20gallery/2021f_pk5r6b.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021g.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021g.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174628/gallery%20images/2021%20gallery/2021g_vqg8no.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174628/gallery%20images/2021%20gallery/2021g_vqg8no.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021h.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021h.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021h_iomov5.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021h_iomov5.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021i.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021i.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021i_sqd15m.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021i_sqd15m.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021j.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021j.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021j_fcanor.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021j_fcanor.jpg",
   },
   {
-    original: "/images/gallery images/2021 gallery/2021k.jpeg",
-    thumbnail: "/images/gallery images/2021 gallery/2021k.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021k_af7gdr.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174630/gallery%20images/2021%20gallery/2021k_af7gdr.jpg",
   },
 ];
 
 const gallery2019 = [
   {
-    original: "/images/gallery images/2019 gallery/2019.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174622/gallery%20images/2019%20gallery/2019_xxyfl2.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174622/gallery%20images/2019%20gallery/2019_xxyfl2.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019a.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019a.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019a_sbw01i.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019a_sbw01i.jpg",
   },
 
   {
-    original: "/images/gallery images/2019 gallery/2019b.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019b.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019b_oene7j.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019b_oene7j.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019c.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019c.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174623/gallery%20images/2019%20gallery/2019c_w4jy6c.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174623/gallery%20images/2019%20gallery/2019c_w4jy6c.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019d.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019d.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019d_i3blbk.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019d_i3blbk.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019e.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019e.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019e_gzpdqs.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019e_gzpdqs.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019f.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019f.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019f_gtcs1k.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019f_gtcs1k.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019g.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019g.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019g_oytort.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019g_oytort.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019h.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019h.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019h_aizkp5.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174624/gallery%20images/2019%20gallery/2019h_aizkp5.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019i.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019i.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019i_otsqra.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174625/gallery%20images/2019%20gallery/2019i_otsqra.jpg",
   },
   {
-    original: "/images/gallery images/2019 gallery/2019j.jpeg",
-    thumbnail: "/images/gallery images/2019 gallery/2019j.jpeg",
+    original: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174626/gallery%20images/2019%20gallery/2019j_wqmf0r.jpg",
+    thumbnail: "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174626/gallery%20images/2019%20gallery/2019j_wqmf0r.jpg",
   },
 ];
 
