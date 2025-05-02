@@ -36,10 +36,19 @@
   .jscop_image_outer_div {
     display: flex;
     justify-content: center;
-
+    flex-direction: column;
+    width: 100%;
     .jscop_image {
       // height: 200px;
-      width: 500px;
+      width: 360px;
+      height: 400px;
+      border-radius: 20px;
+      margin: 0 auto;
+      padding: 10px 15px 10px 0;
+
+      @media (max-widht: 768px) {
+        width: 100px;
+      }
     }
   }
 
