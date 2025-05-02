@@ -1,15 +1,25 @@
 import "./JscopPage.scss";
 import React from "react";
 import YearButton from "../YearButton/YearButton";
+// import JSCOP7.0 from "../../../public/images/JSCOP7.0.jpg";
 
 function JscopPage() {
   return (
     <div className="jscop">
       <div className="jscop_upcoming">
         <div className="jscop_mid_heading">
-          <div className="jscop_image_outer_div">
-            <img src={"https://res.cloudinary.com/dcuc1uetk/image/upload/v1726309996/JIIT%20OPTICA%20WEBSITE/Jscop_component/JSCOP_COMING_SOON_o5txx6.png"} alt="stay-tuned" className="jscop_image" />
-          </div>
+          <a
+            href="https://jscop.jiitopticachapter.com/"
+            className="jscop_image_outer_div"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="../../../images/JSCOP7.0.png"
+              alt="stay-tuned"
+              className="jscop_image"
+            />
+          </a>
         </div>
       </div>
       <div className="jscop_past_events">
@@ -28,22 +38,22 @@ function JscopPage() {
             target="_blank"
             rel="noreferrer"
           >
-            <YearButton text="JSCOP 6.0"/>
+            <YearButton text="JSCOP 6.0" />
           </a>
-           <a 
-              href="https://jscop5.jiitopticachapter.com/"
-              target="_blank"
-              rel="noreferrer"
-              >
-          <YearButton text="JSCOP 5.0" />
+          <a
+            href="https://jscop5.jiitopticachapter.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <YearButton text="JSCOP 5.0" />
           </a>
 
-          <a 
-              href="https://jscop4.jiitopticachapter.com/"
-              target="_blank"
-              rel="noreferrer"
-              >
-          <YearButton text="JSCOP 4.0" />
+          <a
+            href="https://jscop4.jiitopticachapter.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <YearButton text="JSCOP 4.0" />
           </a>
           {/* <YearButton text="JSCOP 3.0" />
           <YearButton text="JSCOP 2.0" /> */}
