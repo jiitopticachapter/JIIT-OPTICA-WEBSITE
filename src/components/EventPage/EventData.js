@@ -13,6 +13,41 @@ const eventData2024_25 = [
     imgUrl:
       "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738360323/events/2023-2024/latent_qjaxl6.jpg",
   },
+  {
+    title: "Pointless",
+    description:
+      "Pointless — the quiz where obscure answers score big! Unlike typical quizzes, you aim for the least obvious correct response. Fun, competitive, and refreshingly different!",
+    imgUrl:
+      "/images/events/2024-2025/Pointless.png"
+  },
+  {
+    title: "Mock Interview",
+    description:
+      "Ace your real interviews with our Mock Interview session — a chance to face real-time questions, receive expert feedback, and boost your confidence. Sharpen both your technical and HR skills in a professional setting.",
+    imgUrl:
+      "/images/events/2024-2025/Mock_interview.png"
+  },
+  {
+    title: "Astrovolt",
+    description:
+      "Astrovolt is your gateway to the world of electronics and circuit building! Teams will race against time to design, debug, and deploy circuits in thrilling challenges that test your creativity and problem-solving skills.",
+    imgUrl:
+      "/images/events/2024-2025/Astrovolt.png"
+  },
+  {
+    title: "Optisus",
+    description:
+      "Take a break from the buzz and dive into our Fun Event — packed with games, laughter, and good vibes! Unwind, connect, and make memories that’ll last beyond the day.",
+    imgUrl:
+      "/images/events/2024-2025/Optisus.jpg"
+  },
+  {
+    title: "Jaypee's Got Latent 2.0",
+    description:
+      "Inspired by @maisamayhoon’s iconic India’s Got Latent, our 2.0 edition is here to uncover and celebrate hidden talents. Step into the spotlight and let your uniqueness shine!",
+    imgUrl:
+      "/images/events/2024-2025/Jaypee_Got_Latent.png",
+  }
 ];
 
 const eventData2023_24 = [
