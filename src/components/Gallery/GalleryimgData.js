@@ -28,6 +28,33 @@ const recenthighlights = [
       "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358358/recent%20highlights/img2_ejhsgj.jpg",
   },
   {
+    imgUrl: "/images/gallery images/2025 gallery/2025a_Latent.jpeg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025b_Latent.jpeg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025a_Optisus.jpg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025b_Optisus.jpeg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025c_Optisus.jpeg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025a_PhysicsTalk.jpeg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025a_TechTalk.jpg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025b_TechTalk.jpg",
+  },
+  {
+    imgUrl: "/images/gallery images/2025 gallery/2025c_TechTalk.jpg",
+  },
+  {
     imgUrl:
       "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358372/recent%20highlights/rh-10_k2vll7.jpg",
   },
@@ -43,22 +70,22 @@ const recenthighlights = [
     imgUrl:
       "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358362/recent%20highlights/IMG_2395_vx7czh.jpg",
   },
-  {
-    imgUrl:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358378/recent%20highlights/rh-9_scscte.jpg",
-  },
-  {
-    imgUrl:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358361/recent%20highlights/IMG_2423_nqhzcy.jpg",
-  },
-  {
-    imgUrl:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358375/recent%20highlights/rh-3_jdhsva.jpg",
-  },
-  {
-    imgUrl:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358374/recent%20highlights/rh-11_pzrveo.jpg",
-  },
+  // {
+  //   imgUrl:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358378/recent%20highlights/rh-9_scscte.jpg",
+  // },
+  // {
+  //   imgUrl:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358361/recent%20highlights/IMG_2423_nqhzcy.jpg",
+  // },
+  // {
+  //   imgUrl:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358375/recent%20highlights/rh-3_jdhsva.jpg",
+  // },
+  // {
+  //   imgUrl:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358374/recent%20highlights/rh-11_pzrveo.jpg",
+  // },
   {
     imgUrl:
       "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738358359/recent%20highlights/IMG_2431_huxkb3.jpg",
@@ -135,16 +162,35 @@ const gallery2025 = [
   },
   {
     original:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025d_HCV_wdkcs1.jpg",
+      "/images/gallery images/2025 gallery/2025a_Optisus.jpg",
     thumbnail:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025d_HCV_wdkcs1.jpg",
+      "/images/gallery images/2025 gallery/2025a_Optisus.jpg",
   },
   {
     original:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025e_HCV_n4rgt1.jpg",
+      "/images/gallery images/2025 gallery/2025a_TechTalk.jpg",
     thumbnail:
-      "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025e_HCV_n4rgt1.jpg",
+      "/images/gallery images/2025 gallery/2025a_TechTalk.jpg",
   },
+  {
+    original:
+      "/images/gallery images/2025 gallery/2025a_Latent.jpeg",
+    thumbnail:
+      "/images/gallery images/2025 gallery/2025a_Latent.jpeg",
+  }
+  // },
+  // {
+  //   original:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025d_HCV_wdkcs1.jpg",
+  //   thumbnail:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025d_HCV_wdkcs1.jpg",
+  // },
+  // {
+  //   original:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025e_HCV_n4rgt1.jpg",
+  //   thumbnail:
+  //     "https://res.cloudinary.com/dcuc1uetk/image/upload/v1738174663/gallery%20images/2025%20gallery/2025e_HCV_n4rgt1.jpg",
+  // }
 ];
 const gallery2024 = [
   {

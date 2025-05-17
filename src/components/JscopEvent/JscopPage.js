@@ -28,22 +28,29 @@ function JscopPage() {
             target="_blank"
             rel="noreferrer"
           >
-            <YearButton text="JSCOP 6.0"/>
+            <YearButton text="JSCOP 7.0" />
           </a>
-           <a 
-              href="https://jscop5.jiitopticachapter.com/"
-              target="_blank"
-              rel="noreferrer"
-              >
-          <YearButton text="JSCOP 5.0" />
+          <a
+            href="https://jscop.jiitopticachapter.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <YearButton text="JSCOP 6.0" />
+          </a>
+          <a
+            href="https://jscop5.jiitopticachapter.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <YearButton text="JSCOP 5.0" />
           </a>
 
-          <a 
-              href="https://jscop4.jiitopticachapter.com/"
-              target="_blank"
-              rel="noreferrer"
-              >
-          <YearButton text="JSCOP 4.0" />
+          <a
+            href="https://jscop4.jiitopticachapter.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <YearButton text="JSCOP 4.0" />
           </a>
           {/* <YearButton text="JSCOP 3.0" />
           <YearButton text="JSCOP 2.0" /> */}
