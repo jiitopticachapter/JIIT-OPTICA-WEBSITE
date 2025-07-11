@@ -10,10 +10,11 @@ import {
   AluminiData2019_20,
   AluminiData2022_23,
   AluminiData2023_24,
+  AluminiData2024_25
 } from "./AluminiData";
 
 function AlumniPage() {
-  const [year, SetYear] = useState("2023-24");
+  const [year, SetYear] = useState("2024-25");
 
   const [AluminiData, setAluminiData] = useState(AluminiData2021_22);
 
@@ -28,6 +29,9 @@ function AlumniPage() {
       setAluminiData(AluminiData2022_23);
     } else if (year === "2023-24") {
       setAluminiData(AluminiData2023_24);
+    }
+    else if(year=="2024-25"){
+      setAluminiData(AluminiData2024_25)
     }
   }, [year]);
 
@@ -61,6 +65,7 @@ function AlumniPage() {
             side_heading="Meet Our Alumni"
             side_content="The journey continues, fueled by passion and purpose."
           />
+          <YearButton text="2024-25" SetYear={SetYear}/>
           <YearButton text="2023-24" SetYear={SetYear} />
           <YearButton text="2022-23" SetYear={SetYear} />
           <YearButton text="2021-22" SetYear={SetYear} />
