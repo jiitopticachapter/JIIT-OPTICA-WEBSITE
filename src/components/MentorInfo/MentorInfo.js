@@ -11,14 +11,16 @@ function MentorInfo() {
   const [isShown2, setIsShown2] = useState(true);
   const [isShown3, setIsShown3] = useState(true);
 
-  useEffect(() => {
-    AOS.init({
-      offset: 200,
-      duration: 600,
-      easing: "ease-in-sine",
-      delay: 100,
-    });
-  }, []);
+useEffect(() => {
+  AOS.init({
+    offset: 100,
+    duration: 800,
+    easing: "ease-in-out",
+    delay: 100,
+    once: true,
+  });
+}, []);
+
 
   return (
     <>

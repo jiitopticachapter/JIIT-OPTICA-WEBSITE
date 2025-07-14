@@ -23,6 +23,13 @@ function JscopPage() {
           </p>
         </div>
         <div className="jscop_year_buttons">
+          <a 
+          href="https://jscop.jiitopticachapter.com/" 
+          target="_blank"
+          rel="noreferrer"
+          >
+            <YearButton text="JSCOP 7.0"/>
+          </a>
           <a
             href="https://jscop.jiitopticachapter.com/"
             target="_blank"

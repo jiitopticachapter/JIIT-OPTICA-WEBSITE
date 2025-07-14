@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import {
   eventData2018_19,
   eventData2020_21,
@@ -9,7 +9,8 @@ import {
 import "./EventPage.scss";
 import YearButton from "../YearButton/YearButton";
 import { EventCard } from "./EventCard";
-import { useState, useEffect } from "react";
+import { motion } from "framer-motion";
+import { containerVariants, cardVariants } from "../../utils/motionVariants";
 
 const Event = () => {
   const [eventYear, setEventYear] = useState("2024-25");
@@ -30,7 +31,12 @@ const Event = () => {
   }, [eventYear]);
 
   return (
-    <div className="events-container">
+    <motion.div
+      className="events-container"
+      initial="hidden"
+      animate="visible"
+      variants={containerVariants}
+    >
       <div className="year-buttons">
         <YearButton text="2024-25" SetEventYear={setEventYear} />
         <YearButton text="2023-24" SetEventYear={setEventYear} />
@@ -38,19 +44,30 @@ const Event = () => {
         <YearButton text="2020-21" SetEventYear={setEventYear} />
         <YearButton text="2018-19" SetEventYear={setEventYear} />
       </div>
-      <div className="event-card-container">
-        {eventData.map((val, ind) => {
-          return (
+
+      {/* Cards animated directly inside the layout container */}
+      <motion.div
+        key={eventYear}
+        className="event-card-container"
+        initial="hidden"
+        animate="visible"
+        variants={containerVariants}
+      >
+        {eventData.map((val, ind) => (
+          <motion.div
+            key={ind}
+            variants={cardVariants}
+            className="motion_card_wrapper"
+          >
             <EventCard
-              key={ind}
               imgsrc={val.imgUrl}
               title={val.title}
               description={val.description}
             />
-          );
-        })}
-      </div>
-    </div>
+          </motion.div>
+        ))}
+      </motion.div>
+    </motion.div>
   );
 };
 
