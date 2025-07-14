@@ -99,8 +99,8 @@ function ContactUs() {
                 ></i>
                 {/* <div className="ContactUs-topic">Phone</div> */}
                 <div className="ContactUs-details2">
-                  <div className="ContactUs-text-one" onClick={() => copyToClipboard("+91 9026152678")}>
-                    Shantanu Pandey <br /> +91 9026152678{" "}
+                  <div className="ContactUs-text-one" onClick={() => copyToClipboard("+91 9610363350")}>
+                   Bhavishya Katariya<br /> +91 9610363350{" "}
                   </div>
                   {/* <br /> */}
                   
@@ -114,8 +114,8 @@ function ContactUs() {
                 ></i>
                 {/* <div className="ContactUs-topic">Phone</div> */}
                 <div className="ContactUs-details2">
-                  <div className="ContactUs-text-two" onClick={() => copyToClipboard("+91 7439557090")}>
-                    Sai Raj Singh <br /> +91 7439557090
+                  <div className="ContactUs-text-two" onClick={() => copyToClipboard("+91 9045410408")}>
+                    Saarthak Agarwal <br /> +91 9045410408
                   </div>
                   {/* <br /> */}
                   
