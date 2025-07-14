@@ -11,7 +11,6 @@ import Jscop from "./routes/JSCOP/Jscop";
 import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 import "./App.css";
 import "./index.css";
-import Cursor from "./components/Cursor/Cursor";
 
 function App() {
   return (
