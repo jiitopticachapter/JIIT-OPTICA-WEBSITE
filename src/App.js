@@ -1,6 +1,5 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import FluidCursor from "./components/Cursor/Cursor";
 import Home from "./routes/Home/Home";
 import Team from "./routes/Team/Team";
 import Alumni from "./routes/Alumni/Alumni";
